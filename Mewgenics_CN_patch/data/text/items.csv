@@ -1847,7 +1847,7 @@ ITEM_IMMACULATEHEART_DESC,"+2 Damage, +1 Magic Damage. Emit 3 Sparkles when you 
 ITEM_IPECAC_NAME,Ipecac,,Ipecacuana,Vomitif,Ipecac,Ipecacuana,Ipecac,吐根
 ITEM_IPECAC_DESC,Your basic attack is Explosive Shot.,,El ataque básico lanza un proyectil explosivo.,Votre attaque de base devient Tir explosif.,Dein Grundangriff wird zu Explosivschuss.,Il tuo attacco base è Colpo Esplosivo.,Seu ataque básico é um disparo explosivo.,你的普通攻击变为爆裂射击。
 ITEM_JAROFLEECHES_NAME,Jar of Leeches,,Tarro de sanguijuelas,Bocal de sangsues,Glas mit Blutegeln,Barattolo di Sanguisughe,Pote de Sanguessugas,水蛭瓶
-ITEM_JAROFLEECHES_DESC,Your basic attack inflicts Leech 1.,,El ataque básico inflige 1 de sanguijuela.,Votre attaque de base inflige Sangsue +1.,Dein Grundangriff verursacht Blutegel&nbsp;1.,Il tuo attacco base infligge Sanguisuga 1.,Seu ataque básico aplica sanguessuga 1.,"你的普通攻击附加1层吸血效果。
+ITEM_JAROFLEECHES_DESC,Your basic attack inflicts Leech 1.,,El ataque básico inflige 1 de sanguijuela.,Votre attaque de base inflige Sangsue +1.,Dein Grundangriff verursacht Blutegel&nbsp;1.,Il tuo attacco base infligge Sanguisuga 1.,Seu ataque básico aplica sanguessuga 1.,"你的普通攻击附加1层生命汲取效果。
 "
 ITEM_JAZZERCISEVHSTAPE_NAME,Jazzercise VHS Tape,,VHS de Jazzercise,VHS de Jazzercise,Fitnessvideo,Vhs di Fitness,Fita VHS de Exercícios,爵士健身录像带
 ITEM_JAZZERCISEVHSTAPE_DESC,,,,,,,,
@@ -3367,7 +3367,7 @@ Comienza cada combate con un 50 % de salud.","Inflige Sangsue +1&nbsp;à tous l
 Vous débutez chaque combat avec 50&nbsp;% de PV.","Verursache bei allen Gegnern am Anfang des Kampfes Blutegel&nbsp;1.
 Beginne jeden Kampf mit 50&nbsp;% LP.","Infliggi Sanguisuga 1 a tutti i nemici all'inizio di ogni battaglia.
 Inizi ogni battaglia con il 50% di salute.","Aplique sanguessuga 1 em todos os inimigos no início de cada batalha.
-Inicie cada batalha com 50% de saúde.","在每场战斗开始时对所有敌人造成1层吸血。
+Inicie cada batalha com 50% de saúde.","在每场战斗开始时对所有敌人施加1层生命汲取。
 
 每场战斗开始时生命值为 50%。
 "
@@ -4685,7 +4685,7 @@ ARMOR_DEATHMASK_DESC,"Get downed at the start of each battle, then revive at the
 在第一回合结束时以满生命值和 +2 [img:shield] 复活。
 "
 ARMOR_LEECHNECKLACE_NAME,Leech Necklace,,Gargantilla de sanguijuela,Collier sangsue,Blutegelhalskette,Collana della Sanguisuga,Colar de Sanguessuga,吸血项链
-ARMOR_LEECHNECKLACE_DESC,Your spells inflict Leech 1 against enemies.,,Sus hechizos infligen 1 de sanguijuela a los enemigos.,Vos sorts infligent Sangsue +1&nbsp;à vos ennemis.,Deine Zauber verursachen bei Gegnern Blutegel&nbsp;1.,I tuoi incantesimi infliggono Sanguisuga 1 ai nemici.,Seus encantamentos aplicam sanguessuga 1 em inimigos.,你的法术对敌人造成吸血 1。
+ARMOR_LEECHNECKLACE_DESC,Your spells inflict Leech 1 against enemies.,,Sus hechizos infligen 1 de sanguijuela a los enemigos.,Vos sorts infligent Sangsue +1&nbsp;à vos ennemis.,Deine Zauber verursachen bei Gegnern Blutegel&nbsp;1.,I tuoi incantesimi infliggono Sanguisuga 1 ai nemici.,Seus encantamentos aplicam sanguessuga 1 em inimigos.,你的法术对敌人施加1层生命汲取。
 SETBONUS_NECROMANCER_NAME,Necromancer Set Bonus!,,¡Bonificación de conjunto de nigromante!,Bonus d'ensemble&nbsp;: occultiste&nbsp;!,Setbonus: Totenbeschwörer!,Bonus Set: Necromante!,Bônus de Conjunto de Necromante!,死灵法师套装加成！
 SETBONUS_NECROMANCER_DESC,"When downed, spawn a shadow copy of yourself that fades away after one turn.",,"Cuando esta unidad está abatida, genera una sombra que desaparece después de un turno.","K.O., invoque un double spectral qui disparaît après un tour.","Wenn du ohnmächtig wirst, rufst du einen Schattenklon, der nach einem Zug verschwindet.","Quando sei KO, generi una tua copia ombra che svanisce dopo un turno.","Ao ficar inconsciente, gere uma cópia sombria de si que desaparece após um turno.","倒地时，
 生成你的一个影子副本，

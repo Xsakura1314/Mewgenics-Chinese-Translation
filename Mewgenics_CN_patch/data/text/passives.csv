@@ -84,7 +84,7 @@ PASSIVE_LEADER2_DESC,All allies have +1 Damage and +1 Range.,,Todos los aliados 
 PASSIVE_MANGE_NAME,Mange,,Sarna,Gale,Räudig,Rogna,Sarna,疥癣
 PASSIVE_MANGE_DESC,Inflict Poison 1 on units that contact you.,,Inflige 1 de veneno a las unidades en contacto.,Inflige Poison&nbsp;+1&nbsp;aux unités qui vous touchent.,"Verursache Gift&nbsp;1 bei Einheiten, die dich berühren.",Infliggi Veleno 1 alle unità che entrano in contatto con te.,Aplique veneno 1 em unidades que entrarem em contato com você.,对接触你的单位施加1层中毒。
 PASSIVE_MANGE2_DESC,"Inflict 1 Poison, Bleed, Bruise, Weakness, and Leech on units that contact you.",,"Inflige 1 de veneno, hemorragia, moratón, debilidad y sanguijuela a las unidades que contactan con ella.","Inflige Poison, Saignement, Contusion, Vulnérabilité, and Sangsue&nbsp;+1&nbsp;aux unités qui vous touchent.","Verursache 1&nbsp;Gift, Blutung, Beulen, Schwäche und Blutegel bei Einheiten, die dich berühren.","Infliggi 1 Veleno, Sanguinamento, Livido, Debolezza e Sanguisuga alle unità che entrano in contatto con te.","Aplique 1 de veneno, sangramento, contusão, fraqueza e sanguessuga em unidades que entrarem em contato com você.","对接触你的单位施加1层中毒、
-流血、挫伤、虚弱和生命吸取。"
+流血、挫伤、虚弱和生命汲取。"
 PASSIVE_ETANK_NAME,E-Tank,,Tanque electrónico,Tank,E-Tank,Serbatoio Energetico,Tanque-E,能量罐
 PASSIVE_ETANK_DESC,Start each battle with +20 unfilled max health.,,Empieza cada combate con +20 de máximo de salud sin rellenar.,Commence chaque combat avec +20&nbsp;PV max. vacants.,Beginne jeden Kampf mit +20 ungeheilten max. LP.,Inizi ogni battaglia con +20 salute massima non riempita.,Inicie cada batalha com +20 de saúde máxima não preenchida.,"每场战斗开始时，
 拥有+20未填充最大生命值。"
@@ -1891,7 +1891,7 @@ Il tuo attacco base infligge +1 Sanguisuga.","Quando uma unidade em que você ap
 Seu ataque básico aplica +1 sanguessuga.","当你施加水蛭的单位死亡或失去其水蛭时，
 
 你的下次普通攻击会施加同等数量的额外水蛭。
-  你的普通攻击施加 +1 水蛭。
+  你的普通攻击施加1层生命汲取。
 "
 PASSIVE_CORPSECONNOISSEUR_NAME,Corpse Connoisseur,,Conocimiento de cadáveres,Expert légiste,Leichenconnaisseur,Gourmet Cadaverico,Connoisseur de Cadáveres,尸体鉴赏家
 PASSIVE_CORPSECONNOISSEUR_DESC,"Start each battle with 2-3 corpses near you.

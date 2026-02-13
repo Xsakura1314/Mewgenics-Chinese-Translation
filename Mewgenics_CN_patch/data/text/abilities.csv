@@ -6006,7 +6006,7 @@ ABILITY_PSYCHICPULL_NAME,Psychic Pull,,Atracción psíquica,Traction psychique,P
 ABILITY_PSYCHICPULL_DESC,Pull a unit toward you from anywhere dealing low damage.,,Atrae a una unidad hacia esta desde cualquier lugar y le inflige poco daño.,Vous attirez vers vous une unité où qu'elle soit et lui infligez de faibles dégâts.,Zieh eine Einheit an dich heran und verursache niedrigen Schaden bei ihr.,"Attiri un'unità verso di te da qualsiasi punto, infliggendo danno basso.",Puxe uma unidade na sua direção de qualquer lugar para causar dano baixo.,"将单位从任何地方拉向你，
 造成少量伤害。"
 ABILITY_LEECHSHOT_NAME,Leech Shot,,Tiro de sanguijuela,Tir de sangsue,Blutegelschuss,Colpo della Sanguisuga,Tiro Sanguessuga,吸血射击
-ABILITY_LEECHSHOT_DESC,A lobbed attack that inflicts Leech 1.,,Un ataque en arco que inflige 1 de sanguijuela.,Attaque en cloche qui inflige Sangsue&nbsp;+1.,"Ein Angriff, der Hindernisse ignoriert und Blutegel&nbsp;1 verursacht.",Un attacco a parabola che infligge Sanguisuga 1.,Um disparo em arco que aplica sanguessuga 1.,一个抛射攻击，造成吸血1。
+ABILITY_LEECHSHOT_DESC,A lobbed attack that inflicts Leech 1.,,Un ataque en arco que inflige 1 de sanguijuela.,Attaque en cloche qui inflige Sangsue&nbsp;+1.,"Ein Angriff, der Hindernisse ignoriert und Blutegel&nbsp;1 verursacht.",Un attacco a parabola che infligge Sanguisuga 1.,Um disparo em arco que aplica sanguessuga 1.,一个抛射攻击，施加一层生命汲取。
 ABILITY_DRAINATTACK_NAME,Drain Attack,,Ataque drenante,Attaque drainante,Saugangriff,Attacco Drenante,Ataque de Dreno,吸取攻击
 ABILITY_DRAINATTACK_DESC,A melee attack with Lifesteal.,,Un ataque cuerpo a cuerpo con robavida.,Attaque au corps-à-corps dotée de Vol de vie.,"Ein Nahkampfangriff, der Leben absaugt.",Un attacco corpo a corpo con RubaVita.,Um ataque corpo-a-corpo com roubo de vida.,一次带有吸血效果的近战攻击。
 ABILITY_HOOK_NAME,Hook,,Pesca,Crochet,Haken,Gancio,Gancho,钩子
@@ -6734,8 +6734,8 @@ ABILITY_DARKSTEP2_DESC,"Teleport to a tile. If you teleport into a unit you both
 你们都受到5点伤害，
 然后对该单位造成恐惧效果。"
 ABILITY_LEECHES_NAME,Leeches,,Sanguijuelas,Sangsues,Blutegel,Sanguisughe,Sanguessugas,水蛭吸血
-ABILITY_LEECHES_DESC,Inflict Leech 1 on a unit.,,Inflige 1 de sanguijuela a una unidad.,Sangsue&nbsp;+1&nbsp;à une unité.,Verursache Blutegel&nbsp;1 bei einer Einheit.,Infliggi Sanguisuga 1 a un'unità.,Aplique sanguessuga 1 em uma unidade.,对一个单位造成1层生命吸取。
-ABILITY_LEECHES2_DESC,Inflict Leech 1 and Mana Leech 1 on a unit.,,Inflige 1 de sanguijuela y 1 de sanguijuela de maná a una unidad.,Sangsue&nbsp;+1&nbsp;et Sangsue de mana&nbsp;+1&nbsp;à une unité.,Verursache Blutegel&nbsp;1 und Manablutegel&nbsp;1 bei einer Einheit.,Infliggi Sanguisuga 1 e Assorbimento Mana 1 a un'unità.,Aplique sanguessuga 1 e sanguessuga de mana 1 em uma unidade.,"对一个单位造成1层生命吸取和1层法力吸取。
+ABILITY_LEECHES_DESC,Inflict Leech 1 on a unit.,,Inflige 1 de sanguijuela a una unidad.,Sangsue&nbsp;+1&nbsp;à une unité.,Verursache Blutegel&nbsp;1 bei einer Einheit.,Infliggi Sanguisuga 1 a un'unità.,Aplique sanguessuga 1 em uma unidade.,对一个单位造成1层生命汲取。
+ABILITY_LEECHES2_DESC,Inflict Leech 1 and Mana Leech 1 on a unit.,,Inflige 1 de sanguijuela y 1 de sanguijuela de maná a una unidad.,Sangsue&nbsp;+1&nbsp;et Sangsue de mana&nbsp;+1&nbsp;à une unité.,Verursache Blutegel&nbsp;1 und Manablutegel&nbsp;1 bei einer Einheit.,Infliggi Sanguisuga 1 e Assorbimento Mana 1 a un'unità.,Aplique sanguessuga 1 e sanguessuga de mana 1 em uma unidade.,"对一个单位造成1层生命汲取和1层法力吸取。
 "
 ABILITY_SHRIEK_NAME,Shriek,,Chillido,Cri perçant,Kreischen,Strillo,Grito,尖叫
 ABILITY_SHRIEK_DESC,"Inflict Fear 1, Confusion 2, and Madness 2 on units within a cone.",,"Inflige 1 de miedo, 2 de confusión y 2 de locura a unidades en un área cónica.","Peur&nbsp;+1, Confusion&nbsp;+2&nbsp;et Folie&nbsp;+2&nbsp;aux unités en cône.","Verursache Angst&nbsp;1, Verwirrung&nbsp;2 und Wahnsinn&nbsp;2 bei Einheiten in einem kegelförmigen Bereich.","Infliggi Paura 1, Confusione 2 e Follia 2 alle unità all'interno di un cono.","Aplique medo 1, confusão 2 e insanidade 2 em unidades dentro de um cone.","对扇形范围内的单位造成1层恐惧、
@@ -6891,14 +6891,14 @@ ABILITY_CARRIONSHOT_DESC,"Deal 1 damage and inflict Leech 1.
 [s:.7](Este hechizo es más fuerte y se puede lanzar cuando la unidad está abatida).[/s]",Dégâts&nbsp;+1&nbsp;et Sangsue&nbsp;+1. [s:.7]Sort plus puissant si vous êtes K.O.[/s],"Verursache 1&nbsp;Schaden und Blutegel&nbsp;1.
 [s:.7]Dieser Zauber ist stärker, wenn du ohnmächtig bist.[/s]","Infliggi 1 di danno e Sanguisuga 1.
 [s:.7]Quest'incantesimo è più potente e può essere lanciato in stato di KO.[/s]","Cause 1 de dano e aplique sanguessuga 1.
-[s:.7]É possível lançar este encantamento e ele fica mais forte quando você está inconsciente.[/s]","造成1点伤害并施加1层吸血。
+[s:.7]É possível lançar este encantamento e ele fica mais forte quando você está inconsciente.[/s]","造成1点伤害并施加1层生命汲取。
 [s:.7]此技能更强且倒地时可施放。[/s]"
 ABILITY_CARRIONSHOT2_DESC,"Deal 2 damage and inflict Leech 2.
 [s:.7]This spell is stronger and castable while you're downed.[/s]",,"Inflige 2 de daño y 2 de sanguijuela.
 [s:.7](Este hechizo es más fuerte y se puede lanzar cuando la unidad está abatida).[/s]",Dégâts&nbsp;+2&nbsp;et Sangsue&nbsp;+2. [s:.7]Sort plus puissant si vous êtes K.O.[/s],"Verursache 2&nbsp;Schaden und Blutegel&nbsp;2.
 [s:.7]Dieser Zauber ist stärker, wenn du ohnmächtig bist.[/s]","Infliggi 2 di danno e Sanguisuga 2.
 [s:.7]Quest'incantesimo è più potente e può essere lanciato in stato di KO.[/s]","Cause 2 de dano e aplique sanguessuga 2.
-[s:.7]É possível lançar este encantamento e ele fica mais forte quando você está inconsciente.[/s]","造成2点伤害并施加2层吸血。
+[s:.7]É possível lançar este encantamento e ele fica mais forte quando você está inconsciente.[/s]","造成2点伤害并施加2层生命汲取。
 [s:.7]此技能更强且倒地时可施放。[/s]"
 ABILITY_LIFEDRAIN_NAME,Lifedrain,,Drenaje vital,Vol de vie,Leben absaugen,Drenaggio Vitale,Dreno de Vida,生命吸取
 ABILITY_LIFEDRAIN_DESC,"Drain 2 HP at melee range.
@@ -7025,18 +7025,18 @@ ABILITY_CURSE2_DESC,"Give a unit -4 [img:lck].
 [s:.7](Este encantamento possui alcance aumentado.)[/s]","使一名单位 -4 [img:lck]。
 [s:.7](该法术射程增加)[/s]"
 ABILITY_LEECHSWARM_NAME,Leech Swarm,,Enjambre de sanguijuelas,Essaim de sangsues,Blutegelschwarm,Sciame di Sanguisughe,Enxame de Sanguessugas,寄生虫群
-ABILITY_LEECHSWARM_DESC,"Inflict Leech 3 on all units, except yourself.",,Inflige 3 de sanguijuela a todas las unidades salvo a sí misma.,Sangsue&nbsp;+3&nbsp;sur toutes les unités sauf vous.,Verursache bei allen Einheiten außer dir selbst Blutegel&nbsp;3.,"Infliggi Sanguisuga 3 a tutte le unità, tranne che a te.",Aplique sanguessuga 3 em todas as unidades exceto você.,"对除自己以外的所有单位施加3层吸血。
+ABILITY_LEECHSWARM_DESC,"Inflict Leech 3 on all units, except yourself.",,Inflige 3 de sanguijuela a todas las unidades salvo a sí misma.,Sangsue&nbsp;+3&nbsp;sur toutes les unités sauf vous.,Verursache bei allen Einheiten außer dir selbst Blutegel&nbsp;3.,"Infliggi Sanguisuga 3 a tutte le unità, tranne che a te.",Aplique sanguessuga 3 em todas as unidades exceto você.,"对除自己以外的所有单位施加3层生命汲取。
 "
-ABILITY_LEECHSWARM2_DESC,"Inflict Leech 1 on each allied unit and Leech 3 on all other units, except yourself.",,Inflige 1 de sanguijuela a todos los aliados y 3 de sanguijuela a las demás unidades salvo a sí misma.,Sangsue&nbsp;+1&nbsp;sur toutes les unités alliées et Sangsue&nbsp;+3&nbsp;à toutes les autres unités sauf vous.,Verursache bei allen Verbündeten Blutegel&nbsp;1 und bei allen anderen Einheiten außer dir selbst Blutegel&nbsp;3.,"Infliggi Sanguisuga 1 a ogni unità alleata e Sanguisuga 3 a tutte le altre unità, tranne che a te.","Aplique sanguessuga 1 em cada aliado e sanguessuga 3 em cada inimigo, exceto você.","对每个盟友单位施加吸血 1，
-对除自己以外的所有其他单位施加3层吸血。
+ABILITY_LEECHSWARM2_DESC,"Inflict Leech 1 on each allied unit and Leech 3 on all other units, except yourself.",,Inflige 1 de sanguijuela a todos los aliados y 3 de sanguijuela a las demás unidades salvo a sí misma.,Sangsue&nbsp;+1&nbsp;sur toutes les unités alliées et Sangsue&nbsp;+3&nbsp;à toutes les autres unités sauf vous.,Verursache bei allen Verbündeten Blutegel&nbsp;1 und bei allen anderen Einheiten außer dir selbst Blutegel&nbsp;3.,"Infliggi Sanguisuga 1 a ogni unità alleata e Sanguisuga 3 a tutte le altre unità, tranne che a te.","Aplique sanguessuga 1 em cada aliado e sanguessuga 3 em cada inimigo, exceto você.","对每个盟友单位施加生命汲取 1，
+对除自己以外的所有其他单位施加3层生命汲取。
 "
 ABILITY_FEED_NAME,Feed,,Alimento,Alimentation,Leichenschmaus,Nutrimento,Alimentar,吸食
 ABILITY_FEED_DESC,Destroy an adjacent body. Your basic attack inflicts +1 Leech for the rest of the battle.,,Destruye un cadáver adyacente. El ataque básico inflige +1 de sanguijuela durante el resto del combate.,Vous détruisez un cadavre adjacent. Votre attaque de base inflige Sangsue&nbsp;+1&nbsp;pendant le reste du combat.,Zerstöre eine benachbarte Leiche. Dein Grundangriff verursacht für den Rest des Kampfes +1&nbsp;Blutegel.,Distruggi un corpo adiacente. Il tuo attacco base infligge +1 Sanguisuga per il resto della battaglia.,Destrua um corpo adjacente. Seu ataque básico aplica +1 sanguessuga pelo resto da batalha.,"摧毁一个相邻的尸体。
 你的基础攻击在剩余战斗中附加
-+1 吸血效果。"
++1 生命汲取效果。"
 ABILITY_FEED2_DESC,Destroy a body at range. Your basic attack inflicts +1 Leech for the rest of the battle.,,Destruye un cadáver dentro de su radio de alcance. El ataque básico inflige +1 de sanguijuela durante el resto del combate.,Vous détruisez un cadavre dans un rayon. Votre attaque de base inflige Sangsue&nbsp;+1&nbsp;pendant le reste du combat.,Zerstöre Leiche innerhalb deiner Reichweite. Dein Grundangriff verursacht für den Rest des Kampfes +1&nbsp;Blutegel.,Distruggi un corpo a distanza. Il tuo attacco base infligge +1 Sanguisuga per il resto della battaglia.,Destrua um corpo dentro do alcance. Seu ataque básico aplica +1 sanguessuga pelo resto da batalha.,"远程摧毁尸体。
 你的基础攻击在剩余战斗中附加
-+1 吸血效果。"
++1 生命汲取效果。"
 ABILITY_HUSH_NAME,Hush,,Silenciamiento,Chut,Totschweigen,Silenzio,Silenciar,静默
 ABILITY_HUSH_DESC,Inflict Sleep 1 on an adjacent unit.,,Inflige 1 de sueño a una unidad adyacente.,Sommeil&nbsp;+1&nbsp;à une unité adjacente.,Verursache Schlaf&nbsp;1 bei einer benachbarten Einheit.,Infliggi Sonno 1 a un'unità adiacente.,Aplique sono 1 em uma unidade adjacente.,对一个相邻单位施加1层睡眠。
 ABILITY_HUSH2_DESC,Inflict Sleep 1 on a unit in range 4.,,Inflige 1 de sueño a una unidad en un alcance de 4 casillas.,Sommeil&nbsp;+1&nbsp;à une unité dans un rayon de 4&nbsp;cases.,Verursache Schlaf&nbsp;1 bei einer Einheit in Reichweite&nbsp;4.,Infliggi Sonno 1 a un'unità in un raggio d'azione di 4.,Aplique sono 1 em uma unidade em alcance 4.,"对一个4格范围内的单位施加1层睡眠。
@@ -7075,7 +7075,7 @@ Für das Verwenden dieses Zaubers gibt es bleibende Konsequenzen&nbsp;… Aber v
 Ci saranno conseguenze permanenti per aver lanciato quest'incantesimo... ma forse non per te.
 [s:.7](Lanciabile una volta per battaglia.)[/s]","Aplique sanguessuga 2, fraqueza 5, veneno 2 e insanidade 2 em todos os inimigos.
 Haverá consequências permanentes ao lançar este encantamento... mas talvez não para você.
-[s:.7](Um lançamento por batalha.)[/s]","对所有敌人施加2层吸血、
+[s:.7](Um lançamento por batalha.)[/s]","对所有敌人施加2层生命汲取、
 5层虚弱、2层中毒和2层疯狂。
 施放此法术有永久后果……但也许对你无影响。
 "
