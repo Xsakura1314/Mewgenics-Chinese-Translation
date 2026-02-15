@@ -202,8 +202,8 @@ ABILITY_DUMP2_DESC,Spawn a poop on an adjacent tile. Inflict Poison 3 and a 15% 
 施加3层中毒并有15%几率使其眩晕。
 "
 ABILITY_SNACK_NAME,Snacks,,Aperitivo,Goûter,Snacks,Spuntini,Lanche,小零食
-ABILITY_SNACK_DESC,Heal yourself or another unit within four tiles 1 HP.,,Recupera 1 PS o se los devuelve a otra unidad en un radio de 4 casillas.,Soignez-vous ou une autre unité à moins de 4&nbsp;cases de 1&nbsp;PV.,Heile dich oder eine anderen Einheit innerhalb von vier Feldern um 1&nbsp;LP.,Curi te o un'altra unità entro quattro caselle di 1 PS.,Cure 1 PV de si ou de outra unidade dentro de quatro espaços de distância.,"治疗你自己或另一单位，
-范围内四格，恢复1点生命值。"
+ABILITY_SNACK_DESC,Heal yourself or another unit within four tiles 1 HP.,,Recupera 1 PS o se los devuelve a otra unidad en un radio de 4 casillas.,Soignez-vous ou une autre unité à moins de 4&nbsp;cases de 1&nbsp;PV.,Heile dich oder eine anderen Einheit innerhalb von vier Feldern um 1&nbsp;LP.,Curi te o un'altra unità entro quattro caselle di 1 PS.,Cure 1 PV de si ou de outra unidade dentro de quatro espaços de distância.,"治疗你自己或4格内的另一单位，
+恢复1点生命值。"
 ABILITY_SNACK2_DESC,Heal yourself or another unit 1 HP. 50% chance to also give +1 [img:con].,,Recupera 1 PS o se los devuelve a otra unidad. Tiene un 50 % de probabilidad de otorgar también +1 [img:con].,Soignez-vous ou une autre unité de 1&nbsp;PV. L'unité soignée a 50&nbsp;% de chances de gagner [img:con]&nbsp;+1.,"Heile dich oder eine anderen Einheit innerhalb von vier Feldern um 1&nbsp;LP. 50%ige Wahrscheinlichkeit, außerdem +1&nbsp;[img:con] zu verleihen.",Curi te o un'altra unità entro quattro caselle di 1 PS. 50% di probabilità di ottenere anche +1 alla [img:con].,Cure 1 PV de si ou de outra unidade. 50% de chance de também conceder +1 de [img:con].,"治疗你自己或另一单位1点生命值。
 
 50%几率额外获得+1 [img:con]。"
@@ -644,88 +644,88 @@ ABILITY_RANDOMIZE_NAME,Randomize,,Aleatorización,Imprévisible,Zufallsprinzip,R
 ABILITY_RANDOMIZE_DESC,Spawn a random tile anywhere.,,Genera una casilla al azar en cualquier sitio.,Fait apparaître une case aléatoire n'importe où.,Erschaffe ein Feld mit zufälligen Eigenschaften.,Generi una casella casuale in una qualsiasi posizione.,Gere um espaço aleatório em qualquer lugar.,在任意位置生成一个随机地块。
 ABILITY_RANDOMIZE2_DESC,Tiles in an area become random tiles.,,Las casillas en un área se convierten en casillas al azar.,Les cases d'une zone deviennent aléatoires.,Erschaffe Felder in einem bestimmten Bereich mit zufälligen Eigenschaften.,Le caselle di un'area diventano caselle casuali.,Espaços em uma área se tornam espaços aleatórios.,"一个区域内的地块变成随机地块。
 "
-ABILITY_PATHOFTHEMAGE_NAME,Path of the Mage,,Camino del mago,Voie des Mages,Der Weg des Magiers,Percorso del Mago,Caminho do Mago,法师之路
+ABILITY_PATHOFTHEMAGE_NAME,Path of the Mage,,Camino del mago,Voie des Mages,Der Weg des Magiers,Percorso del Mago,Caminho do Mago,法师之道
 ABILITY_PATHOFTHEMAGE_DESC,Transform this spell into a random Mage spell permanently.,,Transforma este hechizo en un hechizo de mago al azar para siempre.,Transforme ce sort en sort de Mage aléatoire de façon permanente.,Verwandle diesen Zauber dauerhaft in einen zufälligen Magierzauber.,Trasforma permanentemente quest'incantesimo in un incantesimo casuale del Mago.,Transforme este encantamento em um encantamento de mago aleatório permanentemente.,"将此法术永久变成一个随机法师法术。
 "
 ABILITY_PATHOFTHEMAGE2_DESC,Transform this spell into a random upgraded Mage spell permanently.,,Transforma este hechizo en un hechizo mejorado de mago al azar para siempre.,Transforme ce sort en sort de Mage amélioré aléatoire de façon permanente.,Verwandle diesen Zauber dauerhaft in einen zufälligen verbesserten Magierzauber.,Trasforma permanentemente quest'incantesimo in un incantesimo casuale potenziato del Mago.,Transforme este encantamento em um encantamento aprimorado de mago aleatório permanentemente.,"将此法术永久变成一个随机升级过的法师法术。
 "
-ABILITY_PATHOFTHEHUNTER_NAME,Path of the Hunter,,Camino del cazador,Voie des Sentinelles,Der Weg des Jägers,Percorso del Cacciatore,Caminho do Caçador,猎人之路
+ABILITY_PATHOFTHEHUNTER_NAME,Path of the Hunter,,Camino del cazador,Voie des Sentinelles,Der Weg des Jägers,Percorso del Cacciatore,Caminho do Caçador,猎人之道
 ABILITY_PATHOFTHEHUNTER_DESC,"A lobbed attack that deals 1 damage. If this kills an enemy, this spell becomes a random Hunter spell permanently.",,"Un ataque en arco que inflige 1 de daño. Si mata a un enemigo, este hechizo se convierte en un hechizo de cazador al azar para siempre.","Une attaque en cloche qui inflige 1&nbsp;point de dégâts. Si elle tue un ennemi, ce sort devient un sort de Sentinelle aléatoire de façon permanente.","Ein Fernkampfangriff, der Hindernisse ignoriert und 1&nbsp;Schaden verursacht. Wenn ein Gegner durch den Angriff stirbt, verwandelt sich dieser Zauber dauerhaft in einen zufälligen Jägerzauber.","Un attacco a parabola che infligge 1 di danno. Se uccide un nemico, quest'incantesimo diventa permanentemente un incantesimo casuale del Cacciatore.","Um ataque em arco que causa 1 de dano. Se este ataque matar um inimigo, este encantamento se torna um encantamento aleatório de caçador permanentemente.","一个抛掷攻击，造成1点伤害。
 如果击杀了敌人，
 此法术将永久变为一个随机的猎人法术。
 "
 ABILITY_PATHOFTHEHUNTER2_DESC,Transform this spell into a random upgraded Hunter spell permanently.,,Transforma este hechizo en un hechizo mejorado de cazador al azar para siempre.,Transforme ce sort en sort de Sentinelle amélioré aléatoire de façon permanente.,Verwandle diesen Zauber dauerhaft in einen zufälligen verbesserten Jägerzauber.,Trasforma permanentemente quest'incantesimo in un incantesimo casuale potenziato del Cacciatore.,Transforme este encantamento em um encantamento aprimorado aleatório de caçador permanentemente.,"将此法术永久变为一个随机升级的猎人法术。
 "
-ABILITY_PATHOFTHETHIEF_NAME,Path of the Thief,,Camino del ladrón,Voie des Fourbes,Der Weg des Diebes,Percorso del Ladro,Caminho do Ladrão,盗贼之路
+ABILITY_PATHOFTHETHIEF_NAME,Path of the Thief,,Camino del ladrón,Voie des Fourbes,Der Weg des Diebes,Percorso del Ladro,Caminho do Ladrão,盗贼之道
 ABILITY_PATHOFTHETHIEF_DESC,"A straight shot attack that deals 1 damage. If this makes a critical hit, this spell becomes a random Thief spell permanently.",,"Un tiro en línea recta que inflige 1 de daño. Si genera un golpe crítico, este hechizo se convierte en un hechizo de ladrón al azar para siempre.","Une attaque directe qui inflige 1&nbsp;point de dégâts. Si c'est un coup critique, ce sort devient un sort de Fourbe aléatoire de façon permanente.","Ein gerader Schussangriff, der 1&nbsp;Schaden verursacht. Verursacht der Angriff einen kritischen Treffer, verwandelt sich dieser Zauber dauerhaft in einen zufälligen Diebeszauber.","Un attacco in linea retta che infligge 1 di danno. Se provoca un colpo critico, quest'incantesimo diventa permanentemente un incantesimo casuale del Ladro.","Um disparo em linha reta que causa 1 de dano. Se for um golpe crítico, este encantamento se torna um encantamento aleatório de ladrão permanentemente.","一个直线射击攻击，
 造成1点伤害。如果造成暴击，
 此法术将永久变为一个随机的盗贼法术。
 "
 ABILITY_PATHOFTHETHIEF2_DESC,Transform this spell into a random upgraded Thief spell permanently.,,Transforma este hechizo en un hechizo mejorado de ladrón al azar para siempre.,Transforme ce sort en sort de Fourbe amélioré aléatoire de façon permanente.,Verwandle diesen Zauber dauerhaft in einen zufälligen verbesserten Diebeszauber.,Trasforma permanentemente quest'incantesimo in un incantesimo casuale potenziato del Ladro.,Transforme este encantamento em um encantamento aprimorado de ladrão aleatório permanentemente.,"将此法术永久变为一个随机升级的盗贼法术。
 "
-ABILITY_PATHOFTHEFIGHTER_NAME,Path of the Fighter,,Camino del luchador,Voie des Pugilistes,Der Weg des Kriegers,Percorso del Guerriero,Caminho do Lutador,战士之路
+ABILITY_PATHOFTHEFIGHTER_NAME,Path of the Fighter,,Camino del luchador,Voie des Pugilistes,Der Weg des Kriegers,Percorso del Guerriero,Caminho do Lutador,战士之道
 ABILITY_PATHOFTHEFIGHTER_DESC,"Your [img:int] becomes 0 until the end of the battle, then this spell becomes a random Fighter spell permanently.",,"El atributo de [img:int] de esta unidad se convierte en 0 hasta el final del combate. Luego, este hechizo se convierte en un hechizo de luchador al azar para siempre.","Votre [img:int] est réduite à&nbsp;0&nbsp;jusqu'à la fin du combat, puis ce sort devient un sort de Pugiliste aléatoire de façon permanente.",Bis zum Ende des Kampfes sinkt deine [img:int] auf 0. Anschließend verwandelt sich dieser Zauber dauerhaft in einen Kriegerzauber.,"La tua [img:int] diventa 0 fino alla fine della battaglia, dopodiché quest'incantesimo diventa permanentemente un incantesimo casuale del Guerriero.","Sua [img:int] se torna 0 até o final da batalha, e então este encantamento se torna um encantamento aleatório de lutador permanentemente.","你的 [img:int] 在战斗结束前变为0，
 然后此法术将永久变为一个随机的战士法术。
 "
 ABILITY_PATHOFTHEFIGHTER2_DESC,Transform this spell into a random upgraded Fighter spell permanently.,,Transforma este hechizo en un hechizo mejorado de luchador al azar para siempre.,Transforme ce sort en sort de Pugiliste amélioré aléatoire de façon permanente.,Verwandle diesen Zauber dauerhaft in einen zufälligen verbesserten Kriegerzauber.,Trasforma permanentemente quest'incantesimo in un incantesimo casuale potenziato del Guerriero.,Transforme este encantamento em um encantamento aprimorado de mago lutador permanentemente.,"将此法术永久变为一个随机升级的战士法术。
 "
-ABILITY_PATHOFTHETANK_NAME,Path of the Tank,,Camino del tanque,Voie des Tanks,Der Weg des Tanks,Percorso del Corazzato,Caminho do Tanque,坦克之路
+ABILITY_PATHOFTHETANK_NAME,Path of the Tank,,Camino del tanque,Voie des Tanks,Der Weg des Tanks,Percorso del Corazzato,Caminho do Tanque,坦克之道
 ABILITY_PATHOFTHETANK_DESC,Transform this spell into a random Tank spell permanently. Castable only if you have 5 or less health.,,Transforma este hechizo en un hechizo de tanque al azar para siempre. Se puede lanzar solo si la unidad tiene 5 de salud o menos.,Transforme ce sort en sort de Tank aléatoire de façon permanente. Ne peut être lancé que si vous avez 5&nbsp;PV ou moins.,Verwandle diesen Zauber dauerhaft in einen zufälligen Tankzauber. Kann nur mit 5 oder weniger LP verwendet werden.,Trasforma permanentemente quest'incantesimo in un incantesimo casuale del Corazzato. Lanciabile solo se hai un massimo di 5 punti salute.,Transforme este encantamento em um encantamento aleatório de tanque permanentemente. Só é possível lançar se você possuir 5 ou menos de saúde.,"将此法术永久变为一个随机的坦克法术。
 
 仅当你的生命值不超过5时可施放。
 "
 ABILITY_PATHOFTHETANK2_DESC,Transform this spell into a random upgraded Tank spell permanently.,,Transforma este hechizo en un hechizo mejorado de tanque al azar para siempre.,Transforme ce sort en sort de Tank amélioré aléatoire de façon permanente.,Verwandle diesen Zauber dauerhaft in einen zufälligen verbesserten Tankzauber.,Trasforma permanentemente quest'incantesimo in un incantesimo casuale potenziato del Corazzato.,Transforme este encantamento em um encantamento aprimorado de tanque aleatório permanentemente.,"将此法术永久变为一个随机升级的坦克法术。
 "
-ABILITY_PATHOFTHECLERIC_NAME,Path of the Cleric,,Camino del clérigo,Voie des Sages,Der Weg des Klerikers,Percorso del Chierico,Caminho do Clérigo,牧师之路
+ABILITY_PATHOFTHECLERIC_NAME,Path of the Cleric,,Camino del clérigo,Voie des Sages,Der Weg des Klerikers,Percorso del Chierico,Caminho do Clérigo,牧师之道
 ABILITY_PATHOFTHECLERIC_DESC,"Give an enemy All Stats Up and fully heal it, then this spell becomes a random Cleric spell permanently.",,"Otorga a un enemigo aumento total y lo cura por completo. Luego, este hechizo se convierte en un hechizo de clérigo al azar para siempre.","Confère Hausse de stats à un ennemi et soigne tous ses PV, puis ce sort devient un sort de Sage aléatoire de façon permanente.","Verleihe einem Gegner einen Bonus auf alle Attribute, heile ihn vollständig und verwandle diesen Zauber dauerhaft in einen zufälligen Klerikerzauber.",Fornisci a un nemico Aumento delle Statistiche e lo cura completamente. Poi quest'incantesimo diventa permanentemente un incantesimo casuale del Chierico.,"Conceda a um inimigo todos os atributos aumentados, e então este encantamento se torna um encantamento de clérigo aleatório permanentemente.","给予一个敌人全属性提升并完全恢复其生命值，
 
 然后此法术将永久变为一个随机的牧师法术。
 "
 ABILITY_PATHOFTHECLERIC2_DESC,Transform this spell into a random upgraded Cleric spell permanently.,,Transforma este hechizo en un hechizo mejorado de clérigo al azar para siempre.,Transforme ce sort en sort de Sage amélioré aléatoire de façon permanente.,Verwandle diesen Zauber dauerhaft in einen zufälligen verbesserten Klerikerzauber.,Trasforma permanentemente quest'incantesimo in un incantesimo casuale potenziato del Chierico.,Transforme este encantamento em um encantamento aprimorado de clérigo aleatório permanentemente.,"将此法术永久变为一个随机升级的牧师法术。
 "
-ABILITY_PATHOFTHEBUTCHER_NAME,Path of the Butcher,,Camino del carnicero,Voie des Barbares,Der Weg des Schlachters,Percorso del Macellaio,Caminho do Açougueiro,屠夫之路
+ABILITY_PATHOFTHEBUTCHER_NAME,Path of the Butcher,,Camino del carnicero,Voie des Barbares,Der Weg des Schlachters,Percorso del Macellaio,Caminho do Açougueiro,屠夫之道
 ABILITY_PATHOFTHEBUTCHER_DESC,"Collect an adjacent food pickup, then this spell becomes a random Butcher spell permanently.",,"Recolecta un recogible de comida adyacente. Luego, este hechizo se convierte en un hechizo de carnicero al azar para siempre.","Ramasse une nourriture adjacente, puis ce sort devient un sort de Barbare aléatoire de façon permanente.",Sammle einen benachbarten Essensgegenstand ein und verwandle diesen Zauber dauerhaft in einen zufälligen Schlachterzauber.,"Prendi un raccoglibile cibo adiacente, poi quest'incantesimo diventa permanentemente un incantesimo casuale del Macellaio.","Pegue um coletável de comida adjacente, e então este encantamento se torna um encantamento de açougueiro aleatório permanentemente.","收集一个相邻的食物拾取物，
 然后此法术将永久变为一个随机的屠夫法术。
 "
 ABILITY_PATHOFTHEBUTCHER2_DESC,Transform this spell into a random upgraded Butcher spell permanently.,,Transforma este hechizo en un hechizo mejorado de carnicero al azar para siempre.,Transforme ce sort en sort de Barbare amélioré aléatoire de façon permanente.,Verwandle diesen Zauber dauerhaft in einen zufälligen verbesserten Schlachterzauber.,Trasforma permanentemente quest'incantesimo in un incantesimo casuale potenziato del Macellaio.,Transforme este encantamento em um encantamento aprimorado de açougueiro aleatório permanentemente.,"将此法术永久变为一个随机升级的屠夫法术。
 "
-ABILITY_PATHOFTHEPSYCHIC_NAME,Path of the Psychic,,Camino del ocultista,Voie des Médiums,Der Weg des Mediums,Percorso dello Psionico,Caminho do Psíquico,通灵者之路
-ABILITY_PATHOFTHEPSYCHIC_DESC,This spell becomes a random Psychic spell permanently. Castable only if you have full mana.,,Este hechizo se convierte en un hechizo de ocultista al azar para siempre. Se puede lanzar solo con el maná al completo.,Transforme ce sort en sort de Médium aléatoire de façon permanente. Ne peut être lancé que si vous avez tous vos points de mana.,Verwandle diesen Zauber dauerhaft in einen zufälligen Mediumzauber. Kann nur mit vollem Mana verwendet werden.,Quest'incantesimo diventa permanentemente un incantesimo casuale dello Psionico. Lanciabile solo se hai mana pieno.,Transforme este encantamento em um encantamento aleatório de psíquico permanentemente. Só é possível lançar se você possuir mana.,"此法术将永久变为一个随机的通灵者法术。
+ABILITY_PATHOFTHEPSYCHIC_NAME,Path of the Psychic,,Camino del ocultista,Voie des Médiums,Der Weg des Mediums,Percorso dello Psionico,Caminho do Psíquico,灵能者之道
+ABILITY_PATHOFTHEPSYCHIC_DESC,This spell becomes a random Psychic spell permanently. Castable only if you have full mana.,,Este hechizo se convierte en un hechizo de ocultista al azar para siempre. Se puede lanzar solo con el maná al completo.,Transforme ce sort en sort de Médium aléatoire de façon permanente. Ne peut être lancé que si vous avez tous vos points de mana.,Verwandle diesen Zauber dauerhaft in einen zufälligen Mediumzauber. Kann nur mit vollem Mana verwendet werden.,Quest'incantesimo diventa permanentemente un incantesimo casuale dello Psionico. Lanciabile solo se hai mana pieno.,Transforme este encantamento em um encantamento aleatório de psíquico permanentemente. Só é possível lançar se você possuir mana.,"此法术将永久变为一个随机的灵能者法术。
 
 仅当你的法力值满时可施放。"
-ABILITY_PATHOFTHEPSYCHIC2_DESC,Transform this spell into a random upgraded Psychic spell permanently.,,Transforma este hechizo en un hechizo mejorado de ocultista al azar para siempre.,Transforme ce sort en sort de Médium amélioré aléatoire de façon permanente.,Verwandle diesen Zauber dauerhaft in einen zufälligen verbesserten Mediumzauber.,Trasforma permanentemente quest'incantesimo in un incantesimo casuale potenziato dello Psionico.,Transforme este encantamento em um encantamento aprimorado de psíquico aleatório permanentemente.,"将此法术永久变为一个随机升级的通灵者法术。
+ABILITY_PATHOFTHEPSYCHIC2_DESC,Transform this spell into a random upgraded Psychic spell permanently.,,Transforma este hechizo en un hechizo mejorado de ocultista al azar para siempre.,Transforme ce sort en sort de Médium amélioré aléatoire de façon permanente.,Verwandle diesen Zauber dauerhaft in einen zufälligen verbesserten Mediumzauber.,Trasforma permanentemente quest'incantesimo in un incantesimo casuale potenziato dello Psionico.,Transforme este encantamento em um encantamento aprimorado de psíquico aleatório permanentemente.,"将此法术永久变为一个随机升级的灵能者法术。
 "
-ABILITY_PATHOFTHETINKERER_NAME,Path of the Tinkerer,,Camino del manitas,Voie des Scientifiques,Der Weg des Bastlers,Percorso dell'Inventore,Caminho do Artífice,修补匠之路
+ABILITY_PATHOFTHETINKERER_NAME,Path of the Tinkerer,,Camino del manitas,Voie des Scientifiques,Der Weg des Bastlers,Percorso dell'Inventore,Caminho do Artífice,工匠之道
 ABILITY_PATHOFTHETINKERER_DESC,"Destroy your weapon, then this spell becomes a random Tinkerer spell permanently.",,"Destruye el arma. Luego, este hechizo se convierte en un hechizo de manitas al azar para siempre.","Détruit votre arme, puis ce sort devient un sort de Scientifique aléatoire de façon permanente.",Zerstöre deine Waffe und verwandle diesen Zauber dauerhaft in einen zufälligen Bastlerzauber.,"Distruggi la tua arma, poi quest'incantesimo diventa permanentemente un incantesimo casuale dell'Inventore.","Destrua sua arma, e então este encantamento se torna um encantamento de artífice aleatório permanentemente.","摧毁你的武器，然后此法术
 永久变成一个随机的修补匠法术。
 "
 ABILITY_PATHOFTHETINKERER2_DESC,Transform this spell into a random upgraded Tinkerer spell permanently.,,Transforma este hechizo en un hechizo mejorado de manitas al azar para siempre.,Transforme ce sort en sort de Scientifique amélioré aléatoire de façon permanente.,Verwandle diesen Zauber dauerhaft in einen zufälligen verbesserten Bastlerzauber.,Trasforma permanentemente quest'incantesimo in un incantesimo casuale potenziato dell'Inventore.,Transforme este encantamento em um encantamento aprimorado de artífice aleatório permanentemente.,"永久将此法术转化为一个随机升级的修补匠法术。
 "
-ABILITY_PATHOFTHEMONK_NAME,Path of the Monk,,Camino del monje,Voie des Moines,Der Weg des Mönchs,Percorso del Monaco,Caminho do Monge,僧侣之路
+ABILITY_PATHOFTHEMONK_NAME,Path of the Monk,,Camino del monje,Voie des Moines,Der Weg des Mönchs,Percorso del Monaco,Caminho do Monge,僧侣之道
 ABILITY_PATHOFTHEMONK_DESC,"Gain All Stats Down, then this spell becomes a random Monk spell permanently.",,"Obtiene reducción total. Luego, este hechizo se convierte en un hechizo de monje al azar para siempre.","Obtient Baisse de stats, puis ce sort devient un sort de Moine aléatoire de façon permanente.",Erleide einen Malus auf alle Attribute und verwandle diesen Zauber dauerhaft in einen zufälligen Mönchszauber.,"Infliggi Diminuzione delle Statistiche, poi quest'incantesimo diventa permanentemente un incantesimo casuale del Monaco.","Obtenha todos os atributos diminuídos, e então este encantamento se torna um encantamento de monge aleatório permanentemente.","获得所有属性下降，
 然后此法术永久变成一个随机的僧侣法术。
 "
 ABILITY_PATHOFTHEMONK2_DESC,This spell becomes a random upgraded Monk spell permanently.,,Este hechizo se convierte en un hechizo mejorado de monje al azar para siempre.,Transforme ce sort en sort de Moine amélioré aléatoire de façon permanente.,Verwandle diesen Zauber dauerhaft in einen zufälligen verbesserten Mönchszauber.,Quest'incantesimo diventa permanentemente un incantesimo casuale potenziato del Monaco.,Transforme este encantamento em um encantamento aprimorado de monge aleatório permanentemente.,"此法术永久变成一个随机升级的僧侣法术。
 "
-ABILITY_PATHOFTHEDRUID_NAME,Path of the Druid,,Camino del druida,Voie des Druides,Der Weg des Druiden,Percorso del Druido,Caminho do Druida,德鲁伊之路
+ABILITY_PATHOFTHEDRUID_NAME,Path of the Druid,,Camino del druida,Voie des Druides,Der Weg des Druiden,Percorso del Druido,Caminho do Druida,德鲁伊之道
 ABILITY_PATHOFTHEDRUID_DESC,"Plant flowers on the tile you're standing on, then this spell becomes a random Druid spell permanently. Castable only if you're standing on a grass tile.",,"Planta flores en la casilla sobre la que está. Luego, este hechizo se convierte en un hechizo de druida al azar para siempre. Solo se puede lanzar si la unidad está sobre una casilla de hierba.","Plante des fleurs sur votre case, puis ce sort devient un sort de Druide aléatoire de façon permanente. Ne peut être lancé que si vous êtes sur une case d'herbe.","Pflanze auf dem Feld, auf dem du dich befindest, Blumen und verwandle diesen Zauber dauerhaft in einen zufälligen Druidenzauber. Kann nur verwendet werden, wenn du auf einem Grasfeld stehst.","Pianti dei fiori sulla casella su cui ti trovi, poi quest'incantesimo diventa permanentemente un incantesimo casuale del Druido. Lanciabile solo se ti trovi su una casella d'erba.","Plante flores no espaço onde você está, e então este encantamento se torna um encantamento de druida aleatório permanentemente. Só é possível lançar se você estiver em um espaço de grama.","在你站立的地块上种花，
 然后此法术永久变成一个随机的德鲁伊法术。
 
 只能在草地上施放。"
 ABILITY_PATHOFTHEDRUID2_DESC,Transform this spell into a random upgraded Druid spell permanently.,,Transforma este hechizo en un hechizo mejorado de druida al azar para siempre.,Transforme ce sort en sort de Druide amélioré aléatoire de façon permanente.,Verwandle diesen Zauber dauerhaft in einen zufälligen verbesserten Druidenzauber.,Trasforma permanentemente quest'incantesimo in un incantesimo casuale potenziato del Druido.,Transforme este encantamento em um encantamento aprimorado de druida aleatório permanentemente.,"永久将此法术转化为一个随机升级的德鲁伊法术。
 "
-ABILITY_PATHOFTHENECROMANCER_NAME,Path of the Necromancer,,Camino del nigromante,Voie des Occultistes,Der Weg des Totenbeschwörers,Percorso del Necromante,Caminho do Necromante,死灵法师之路
+ABILITY_PATHOFTHENECROMANCER_NAME,Path of the Necromancer,,Camino del nigromante,Voie des Occultistes,Der Weg des Totenbeschwörers,Percorso del Necromante,Caminho do Necromante,死灵法师之道
 ABILITY_PATHOFTHENECROMANCER_DESC,"Destroy a corpse, then this spell becomes a random Necromancer spell permanently.",,"Destruye un cadáver. Luego, este hechizo se convierte en un hechizo de nigromante al azar para siempre.","Détruit un cadavre, puis ce sort devient un sort d'Occultiste aléatoire de façon permanente.",Zerstöre eine Leiche und verwandle diesen Zauber dauerhaft in einen zufälligen Totenbeschwörerzauber.,"Distruggi un cadavere, poi quest'incantesimo diventa permanentemente un incantesimo casuale del Necromante.","Destrua um corpo, e então este encantamento se torna um encantamento de necromante aleatório permanentemente.","摧毁一具尸体，然后此法术
 永久变成一个随机的死灵法师法术。
 "
 ABILITY_PATHOFTHENECROMANCER2_DESC,Transform this spell into a random Necromancer spell permanently.,,Transforma este hechizo en un hechizo de nigromante al azar para siempre.,Transforme ce sort en sort d'Occultiste aléatoire de façon permanente.,Verwandle diesen Zauber dauerhaft in einen zufälligen verbesserten Totenbeschwörerzauber.,Trasforma permanentemente quest'incantesimo in un incantesimo casuale del Necromante.,Transforme este encantamento em um encantamento aprimorado de necromante aleatório permanentemente.,"永久将此法术转化为一个随机的死灵法师法术。
 "
-ABILITY_PATHOFTHEVOID_NAME,Path Of The Void,,Camino del vacío,Voie du vide,Der Weg der Leere,Percorso del Vuoto,Caminho do Vazio,虚空之路
+ABILITY_PATHOFTHEVOID_NAME,Path Of The Void,,Camino del vacío,Voie du vide,Der Weg der Leere,Percorso del Vuoto,Caminho do Vazio,全能之道
 ABILITY_PATHOFTHEVOID_DESC,Conjure a random Collarless spell into your bonus spell slot.,,Invoca un hechizo sin collar al azar en el espacio de hechizo de bonificación.,Conjure un sort de Sans collier aléatoire dans votre emplacement de sort bonus.,Beschwöre einen zufälligen neutralen Zauber als deinen Bonuszauber.,Evochi un incantesimo casuale del Senza Collare nel tuo slot incantesimo bonus.,Conjure um encantamento sem coleira aleatório em seu espaço de encantamento bônus.,"召唤一个随机的无派系法术到你的额外法术槽中。
 "
 ABILITY_PATHOFTHEVOID2_DESC,Conjure a random upgraded Collarless spell into your bonus spell slot.,,Invoca un hechizo mejorado sin collar al azar en el espacio de hechizo de bonificación.,Conjure un sort de Sans collier amélioré aléatoire dans votre emplacement de sort bonus.,Beschwöre einen zufälligen verbesserten neutralen Zauber als deinen Bonuszauber.,Evochi un incantesimo casuale potenziato del Senza Collare nel tuo slot incantesimo bonus.,Conjure um encantamento sem coleira aprimorado aleatório em seu espaço de encantamento bônus.,"召唤一个随机升级的无派系法术到
 你的额外法术槽中。"
-ABILITY_PATHOFTHEJESTER_NAME,Path of the Jester,,Camino del bufón,Voie des Jokers,Der Weg des Narren,Percorso del Giullare,Caminho do Bobo,小丑之路
+ABILITY_PATHOFTHEJESTER_NAME,Path of the Jester,,Camino del bufón,Voie des Jokers,Der Weg des Narren,Percorso del Giullare,Caminho do Bobo,小丑之道
 ABILITY_PATHOFTHEJESTER_DESC,"Gain 10 random stat ups and 5 random stat downs, then transform this spell into a random class spell permanently.",,"Mejora 10 veces un atributo al azar y reduce 5 veces un atributo al azar. Luego, transforma este hechizo en un hechizo de clase al azar para siempre.","Confère +1&nbsp;dans une stat aléatoire 10&nbsp;fois et -1&nbsp;dans une stat aléatoire 5&nbsp;fois, puis transforme ce sort en sort de classe aléatoire de façon permanente.",Erhalte 10 zufällige Boni und 5 zufällige Malusse auf deine Attribute und verwandle diesen Zauber dauerhaft in einen zufälligen Klassenzauber.,"Ottieni 10 aumenti e 5 diminuzioni casuali delle statistiche, poi trasforma permanentemente questo incantesimo in un incantesimo di classe casuale.","Obtenha 10 atributos aleatórios aumentados e 5 atributos aleatório diminuídos, e então transforme este encantamento em um encantamento aprimorado de classe aleatória permanentemente.","获得10个随机属性提升和5个随机属性下降，
 
 然后永久将此法术转化为一个随机的职业法术。
@@ -902,7 +902,7 @@ ABILITY_COLDSHOULDER2_DESC,"Deal 1 ice damage and inflict Slow 1 at infinite ran
 [s:.7](Este hechizo cuesta menos).[/s]",Inflige 1&nbsp;point de dégâts de glace et Lenteur&nbsp;+1. Portée infinie. [s:.7](Coût réduit.)[/s],"Verursache 1&nbsp;Eisschaden und Verlangsamung&nbsp;1 mit unendlicher Reichweite.
 [s:.7](Dieser Zauber kostet weniger.)[/s]","Infliggi 1 di danno da ghiaccio e Rallentamento 1 a raggio d'azione infinito.
 [s:.7](Quest'incantesimo costa meno.)[/s]","Cause 1 de dano de gelo e aplique lentidão 1 com alcance infinito.
-[s:.7](Este encantamento custa menos.)[/s]","造成1点冰霜伤害并在无限距离内施加1层减速。
+[s:.7](Este encantamento custa menos.)[/s]","在无限距离内造成1点冰霜伤害并施加1层减速。
 
 [s:.7](此法术消耗更少。)[/s]"
 ABILITY_BLOWKISS_NAME,Blow Kiss,,Lanzar beso,Bisous&nbsp;!,Kuss zuwerfen,Bacio della Salute,Mandar Beijo,飞吻
@@ -972,7 +972,7 @@ ABILITY_OPENWOUNDS2_DESC,"An attack that deals even more damage the less health 
 [s:.7](Baseado na porcentagem de saúde)[/s]","攻击目标，目标生命值越低，造成的伤害越高。
 
 [s:.7](基于其生命值百分比)[/s]"
-ABILITY_PRAYER_NAME,Prayer,,Rezo,Oraison,Gebet,Preghiera,Oração,祈祷
+ABILITY_PRAYER_NAME,Prayer,,Rezo,Oraison,Gebet,Preghiera,Oração,祈福
 ABILITY_PRAYER_DESC,Heal units in an area.,,Cura a las unidades en un área.,Soigne des unités en zone.,Heile Einheiten in einem bestimmten Bereich.,Curi le unità in un'area.,Cure unidades em uma área.,治疗范围内的单位。
 ABILITY_PRAYER2_DESC,Heal units in a larger area. Infinite range.,,Cura a las unidades en un área más amplia con alcance ilimitado.,Soigne des unités dans une vaste zone. Portée infinie.,Heile Einheiten in einem größeren Bereich. Unendliche Reichweite.,Curi le unità in un'area più ampia. Raggio d'azione infinito.,Cure unidades em uma área maior. Alcance infinito.,"治疗更大范围内的单位。
 无限距离。"
@@ -1138,8 +1138,8 @@ ABILITY_CRUSADE_DESC,You and your allies move toward the nearest enemy.,,Esta un
 ABILITY_CRUSADE2_DESC,You and your allies move toward the nearest enemy and gain +1 [img:str].,,Esta unidad y sus aliados se mueven hacia el enemigo más cercano y obtienen +1 [img:str].,Vous et vos alliés vous déplacez vers l'ennemi le plus proche et gagnez [img:str]&nbsp;+1.,Du und deine Verbündeten bewegen sich auf den nächsten Gegner zu und erhalten +1&nbsp;[img:str].,Tu e i tuoi alleati vi muovete verso il nemico più vicino e ottenete +1 alla [img:str].,Você e seus aliados se movem na direção do inimigo mais próximo e obtêm +1 de [img:str].,"你和你的盟友向最近的敌人移动并获得+1 [img:str]。
 "
 ABILITY_HALLOWEDGROUND_NAME,Hallowed Ground,,Terreno sagrado,Terre bénie,Geheiligter Boden,Terra Consacrata,Solo Sagrado,圣地
-ABILITY_HALLOWEDGROUND_DESC,Spawn a blessing pickup on an empty tile in range.,,Genera un recogible de bendición en una casilla vacía dentro de su radio de alcance.,Fait apparaître une ressource bénie sur une case vide à portée.,Erschaffe ein gesegnetes Kreuz auf einem leeren Feld in Reichweite.,Generi un raccoglibile benedetto su una casella vuota nel raggio d'azione.,Gere um coletável de benção em um espaço vazio dentro do alcance.,"在范围内的空地上生成一个祝福拾取物。
-"
+ABILITY_HALLOWEDGROUND_DESC,Spawn a blessing pickup on an empty tile in range.,,Genera un recogible de bendición en una casilla vacía dentro de su radio de alcance.,Fait apparaître une ressource bénie sur une case vide à portée.,Erschaffe ein gesegnetes Kreuz auf einem leeren Feld in Reichweite.,Generi un raccoglibile benedetto su una casella vuota nel raggio d'azione.,Gere um coletável de benção em um espaço vazio dentro do alcance.,"在范围内的空地上生成一个
+祝福拾取物。"
 ABILITY_HALLOWEDGROUND2_DESC,Spawn a blessing pickup on any empty tile.,,Genera un recogible de bendición en cualquier casilla vacía.,Fait apparaître une ressource bénie sur n'importe quelle case vide.,Erschaffe ein gesegnetes Kreuz auf einem beliebigen leeren Feld.,Generi un raccoglibile benedetto su una qualsiasi casella vuota.,Gere um coletável de benção em qualquer espaço vazio.,"在任意空地上生成一个祝福拾取物。
 "
 ABILITY_ENLIGHTEN_NAME,Enlighten,,Iluminación,Illumination,Erleuchten,Illuminazione,Iluminação,启迪
@@ -1840,10 +1840,10 @@ Isto causa 25 de dano a chefes ao invés de matá-los.
 而不是秒杀。"
 ABILITY_UNBRIDLEDHITS_NAME,Unbridled Hits,,Golpes desenfrenados,Coups débridés,Hemmungslose Schläge,Colpi Selvaggi,Golpes Desenfreados,不羁连击
 ABILITY_UNBRIDLEDHITS_DESC,A weak melee attack that hits an extra time for each empty armor slot you have.,,Un ataque cuerpo a cuerpo débil que golpea 1 vez adicional por cada espacio de armadura vacío que tenga.,Une faible attaque au corps-à-corps qui frappe une fois de plus pour chaque emplacement d'armure vide.,"Ein schwacher Nahkampfangriff, der für jeden freien Rüstungsplatz ein zusätzliches Mal trifft.",Un attacco corpo a corpo debole che colpisce una volta in più per ogni slot armatura vuoto di cui disponi.,Um ataque corpo-a-corpo fraco que golpeia uma vez adicional para cada espaço de armadura vazio que você possui.,"一个弱的近战攻击，
-根据你空着的护甲槽数额外攻击一次。
+根据你空着的装备槽数额外攻击一次。
 "
 ABILITY_UNBRIDLEDHITS2_DESC,A weak melee attack that hits two extra times for each empty armor slot you have.,,Un ataque cuerpo a cuerpo débil que golpea 2 veces adicionales por cada espacio de armadura vacío que tenga.,Une faible attaque au corps-à-corps qui frappe deux fois de plus pour chaque emplacement d'armure vide.,"Ein schwacher Nahkampfangriff, der für jeden freien Rüstungsplatz zwei zusätzliche Male trifft.",Un attacco corpo a corpo debole che colpisce due volte in più per ogni slot armatura vuoto di cui disponi.,Um ataque corpo-a-corpo fraco que golpeia duas vezes adicionais para cada espaço de armadura vazio que você possui.,"一个弱的近战攻击，
-根据你空着的护甲槽数每次额外攻击两次。
+根据你空着的装备槽数每次额外攻击两次。
 "
 ABILITY_KAMEHAMEHA_NAME,Kamehameha,,Onda vital,Kaméhaméha,Kamehameha,Kamehameha,Kamehameha,龟派气功
 ABILITY_KAMEHAMEHA_DESC,"Fire a magic blast at a unit within 5 tiles. Requires line of sight.
@@ -1854,7 +1854,7 @@ ABILITY_KAMEHAMEHA_DESC,"Fire a magic blast at a unit within 5 tiles. Requires l
 [s:.7](Um lançamento por batalha. Se todos os seus espaços de armadura estiverem vazios, um lançamento por turno.)[/s]","向距离5格内的单位释放魔法冲击。
 
 需要在视线内。
-[s:.7](每场战斗可施放一次。如果所有护甲槽均为空，每回合可施放一次。)[/s]"
+[s:.7](每场战斗可施放一次。如果所有装备槽均为空，每回合可施放一次。)[/s]"
 ABILITY_KAMEHAMEHA2_DESC,"Fire a magic blast at a unit anywhere within your line of sight.
 [s:.7](Castable once per battle. If all your armor slots are empty, castable once per turn.)[/s]",,"Dispara una explosión mágica a una unidad en cualquier casilla en el campo visual de esta unidad.
 [s:.7](Se puede lanzar una vez por combate. Si todos los espacios de armadura están vacíos, se puede lanzar una vez por turno).[/s]","Tire une explosion magique sur une unité dans votre ligne de vue. [s:.7](Une fois par combat, ou une fois par tour si tous vos emplacements d'armure sont vides.)[/s]","Feuere eine magische Explosion auf eine Einheit in deiner Sichtlinie.
@@ -1863,7 +1863,7 @@ ABILITY_KAMEHAMEHA2_DESC,"Fire a magic blast at a unit anywhere within your line
 [s:.7](Um lançamento por batalha. Se todos os seus espaços de armadura estiverem vazios, um lançamento por turno.)[/s]","向视线范围内的任何单位释放魔法冲击。
 
 [s:.7](每场战斗可施放一次。
-如果所有护甲槽均为空，
+如果所有装备槽均为空，
 每回合可施放一次。)[/s]"
 ABILITY_SIDESTEP_NAME,Sidestep,,Paso lateral,Pas de côté,Ausweichmanöver,Schivata Laterale,Passo Lateral,侧步
 ABILITY_SIDESTEP_DESC,Move one tile and gain +1 [img:shield].,,Se mueve una casilla y obtiene +1 [img:shield].,Déplacez-vous d'une case et gagnez [img:shield]&nbsp;+1.,Bewege dich um ein Feld und erhalte +1&nbsp;[img:shield].,Ti sposti di una casella e ottieni +1 allo [img:shield].,Mova-se 1 espaço e obtenha +1 de [img:shield].,移动一格并获得 +1 [img:shield]。
@@ -1884,7 +1884,7 @@ X è uguale al numero di slot armatura vuoti di cui disponi più uno.","Dê um i
 X é equivalente à quantidade de espaços de armadura vazios que você possui mais um.","向前冲刺X格，获得+X [img:shield]，
 造成X点伤害，并造成X点击退。
 
-X等于你空护甲槽数量加一。"
+X等于你空装备槽数量加一。"
 ABILITY_UNIMPEDEDLUNGE2_DESC,"Dash forward X spaces, gain +X [img:shield], deal X damage, and deal X knockback.
 X is equal to twice the number of empty armor slots you have.",,"Se lanza hacia delante X casillas, obtiene +X [img:shield], inflige X de daño e inflige X de retroceso.
 La X es una cantidad igual al doble del número de espacios de armadura vacíos que tenga.","Foncez en avant de X&nbsp;cases, gagnez [img:shield]&nbsp;+X, infligez X&nbsp;points de dégâts et Recul&nbsp;+X. X est égal au nombre d'emplacements d'armure vides x2.","Stürme X Felder vorwärts, erhalte +X&nbsp;[img:shield], verursache X&nbsp;Schaden und Rückstoß.
@@ -1893,7 +1893,7 @@ X è uguale al doppio del numero di slot armatura vuoti di cui disponi.","Dê um
 X é equivalente ao dobro da quantidade de espaços de armadura vazios que você possui.","向前冲刺X格，获得+X [img:shield]，
 造成X点伤害，并造成X点击退。
 
-X等于你空护甲槽数量的两倍。"
+X等于你空装备槽数量的两倍。"
 ABILITY_DOUBLEDRAGON_NAME,Double Dragon,,Dragón doble,Dragon double,Doppeldrache,Double Dragon,Dragão Duplo,双龙
 ABILITY_DOUBLEDRAGON_DESC,"Summon a 1 HP illusion of yourself within three tiles that mimics your basic attack, but in the opposite direction of you. It dies at the end of your turn.",,"En un radio de 3 casillas invoca una ilusión de sí misma con 1 PS que imita su ataque básico, pero en la dirección opuesta. Muere al final del turno.","Invoque une illusion de vous-même à 1&nbsp;PV à moins de 3&nbsp;cases qui imite votre attaque de base, mais dans la direction opposée par rapport à vous. Meurt à la fin de votre tour.","Beschwöre innerhalb von drei Feldern eine Illusion deiner selbst, die 1&nbsp;LP hat und deinen Grundangriff in die entgegengesetzte Richtung ausführt. Sie stirbt am Ende deines Zuges.","Evochi una tua illusione dotata di 1 PS entro tre caselle che imita il tuo attacco base, ma nella direzione opposta alla tua. Muore alla fine del tuo turno.","Invoque uma ilusão sua com 1 PV dentro de três espaços de distância que imita seu ataque básico, porém na direção oposta da sua. Ela morre no final do seu turno.","在3格内召唤一个拥有1生命值的幻影，
 
@@ -2011,7 +2011,7 @@ ABILITY_ENERGYBLAST_DESC,A high damage spell that hits a single target.,,Un hech
 "
 ABILITY_ENERGYBLAST2_DESC,A high damage spell that hits a single target and deals extra damage equal to your [img:int].,,"Un hechizo que inflige mucho daño, golpea a un solo objetivo e inflige una cantidad de daño extra igual a su [img:int].",Un sort puissant qui frappe une seule cible et inflige des dégâts supplémentaires équivalents à votre [img:int].,"Ein Zauber, der hohen Schaden bei einem Einzelziel und zusätzlichen Schaden in Höhe deiner [img:int] verursacht.","Un incantesimo che infligge danno elevato, colpisce un singolo bersaglio e infligge danno aggiuntivo pari alla tua [img:int].",Um encantamento de dano alto que atinge um alvo único e causa dano adicional equivalente à sua [img:int].,"一个对单个目标造成高伤害并额
 外造成等同于你[img:int] 伤害的法术。"
-ABILITY_MAGICMISSILE_NAME,Magic Missile,,Misil mágico,Missile magique,Magisches Geschoss,Missile Magico,Míssil Mágico,魔法导弹
+ABILITY_MAGICMISSILE_NAME,Magic Missile,,Misil mágico,Missile magique,Magisches Geschoss,Missile Magico,Míssil Mágico,魔法飞弹
 ABILITY_MAGICMISSILE_DESC,Shoot an infinite-range projectile that can't miss.,,Dispara un proyectil de alcance infinito que no puede fallar.,Tire un projectile à portée infinie qui ne rate jamais sa cible.,"Verschieße ein Geschoss mit unendlicher Reichweite, das nicht verfehlen kann.",Spari un proiettile a raggio d'azione infinito che non può mancare il bersaglio.,Dispare um projétil de alcance infinito que não pode errar.,"发射一个不会失手的无限射程弹幕。
 "
 ABILITY_MAGICMISSILE2_DESC,Shoot an infinite-range projectile that can't miss. Emit 3 Sparkles.,,Dispara un proyectil de alcance infinito que no puede fallar. Emite 3 destellos.,Tire un projectile à portée infinie qui ne rate jamais sa cible. Produit 3&nbsp;Étincelles.,"Verschieße ein Geschoss mit unendlicher Reichweite, das nicht verfehlen kann. Versprühe 3&nbsp;Funken.",Spari un proiettile a raggio d'azione infinito che non può mancare il bersaglio. Emette 3 Scintille.,Dispare um projétil de alcance infinito que não pode errar. Emita 3 fagulhas.,"发射一个不会失手的无限射程弹幕。
@@ -2234,7 +2234,7 @@ ABILITY_FORBIDDENFULMINATION_DESC,"Strike all enemies with lightning, inflicting
 [s:.7](Lanciabile una volta per battaglia.)[/s]","Golpeie todos os inimigos, aplicando atordoamento. Haverá consequências permanentes ao lançar este encantamento…
 [s:.7](Um lançamento por batalha.)[/s]","用闪电打击所有敌人，
 附加眩晕。
-施放此法术将带来永久影响…
+施放此法术将带来永久性后果…
 [s:.7](每场战斗可施放一次。)[/s]"
 ABILITY_FORBIDDENFULMINATION2_DESC,"Strike all enemies with lightning, inflicting Stun 2. There will be permanent consequences for casting this spell…
 [s:.7](Castable once per battle.)[/s]",,"Golpea a todos los enemigos con un rayo y les inflige +2 de aturdimiento. Habrá consecuencias permanentes por lanzar este hechizo...
@@ -2243,7 +2243,7 @@ ABILITY_FORBIDDENFULMINATION2_DESC,"Strike all enemies with lightning, inflictin
 [s:.7](Lanciabile una volta per battaglia.)[/s]","Golpeie todos os inimigos, aplicando atordoamento 2. Haverá consequências permanentes ao lançar este encantamento…
 [s:.7](Um lançamento por batalha.)[/s]","用闪电打击所有敌人，
 附加2层眩晕。
-施放此法术将带来永久影响…
+施放此法术将带来永久性后果…
 [s:.7](每场战斗可施放一次。)[/s]"
 ABILITY_FIREBOLT_NAME,Firebolt,,Rayo de fuego,Éclair de feu,Feuerblitz,Dardo di Fuoco,Raio Flamejante,火焰箭
 ABILITY_FIREBOLT_DESC,Cast a fire/electric spell that inflicts Burn 1 and has a 15% chance to inflict Stun in an X shaped area.,,Lanza un hechizo de fuego/electricidad que inflige +1 de quemadura y tiene un 15 % de probabilidad de aturdir en un área en forma de X.,Lance un sort feu/électrique qui inflige Brûlure&nbsp;+1&nbsp;et a 15&nbsp;% de chances d'infliger Étourdissement dans une zone en X.,"Wirke einen Feuer-/Blitzzauber, der Verbrennung&nbsp;1 verursacht und mit 15%iger Wahrscheinlichkeit Betäubung in einem X-förmigen Bereich verursacht.",Lanci un incantesimo di fuoco/elettricità che infligge Bruciatura 1 e ha un 15% di probabilità di infliggere Stordimento in un'area a forma di X.,Lance um encantamento de fogo/elétrico que aplica queimadura 1 e possui 15% de chance de aplicar atordoamento em uma área em forma de X.,"施放一枚火焰/电击法术，
@@ -2278,11 +2278,11 @@ ABILITY_CORRUPT2_DESC,"Injure yourself, then gain +3 Magic Damage and emit a Spa
 然后获得+3魔法伤害并发出火花。
 "
 ABILITY_JOLT_NAME,Jolt,,Sacudida,Électrochoc,Schock,Scossa,Solavanco,电击
-ABILITY_JOLT_DESC,Shoot a lightning bolt that deals 1 damage and knocks the unit it hits 3 tiles in the direction it's facing.,,Dispara un rayo que inflige 1 de daño y hace retroceder 3 casillas a la unidad que golpee en la dirección hacia la que mire.,Tire un éclair qui inflige 1&nbsp;point de dégâts et repousse l'unité touchée de 3&nbsp;cases en face d'elle.,"Verschieße einen Blitz, der 1&nbsp;Schaden verursacht und die Einheit, die er trifft, 3&nbsp;Felder in die Richtung stößt, in die sie blickt.",Spari un fulmine che infligge 1 di danno e respinge l'unità colpita di 3 caselle nella direzione in cui è rivolta.,Dispare um raio que causa 1 de dano e empurra unidades que atinge 3 espaços na direção em que foi lançado.,"发射一枚闪电，造成1点伤
-害并将击中单位向其面朝方向击退3格。
+ABILITY_JOLT_DESC,Shoot a lightning bolt that deals 1 damage and knocks the unit it hits 3 tiles in the direction it's facing.,,Dispara un rayo que inflige 1 de daño y hace retroceder 3 casillas a la unidad que golpee en la dirección hacia la que mire.,Tire un éclair qui inflige 1&nbsp;point de dégâts et repousse l'unité touchée de 3&nbsp;cases en face d'elle.,"Verschieße einen Blitz, der 1&nbsp;Schaden verursacht und die Einheit, die er trifft, 3&nbsp;Felder in die Richtung stößt, in die sie blickt.",Spari un fulmine che infligge 1 di danno e respinge l'unità colpita di 3 caselle nella direzione in cui è rivolta.,Dispare um raio que causa 1 de dano e empurra unidades que atinge 3 espaços na direção em que foi lançado.,"发射一枚闪电，造成1点伤害
+并将击中单位向其面朝方向击退3格。
 "
-ABILITY_JOLT2_DESC,Shoot a lightning bolt that deals 2 damage and knocks the unit it hits 6 tiles in the direction it's facing.,,Dispara un rayo que inflige 2 de daño y hace retroceder 6 casillas a la unidad que golpee en la dirección hacia la que mire.,Tire un éclair qui inflige 2&nbsp;points de dégâts et repousse l'unité touchée de 6&nbsp;cases en face d'elle.,"Verschieße einen Blitz, der 2&nbsp;Schaden verursacht und die Einheit, die er trifft, 6&nbsp;Felder in die Richtung stößt, in die sie blickt.",Spari un fulmine che infligge 2 di danno e respinge l'unità colpita di 6 caselle nella direzione in cui è rivolta.,Dispare um raio que causa 2 de dano e empurra unidades que atinge 6 espaços na direção em que foi lançado.,"发射一枚闪电，造成2点伤
-害并将击中单位向其面朝方向击退6格。
+ABILITY_JOLT2_DESC,Shoot a lightning bolt that deals 2 damage and knocks the unit it hits 6 tiles in the direction it's facing.,,Dispara un rayo que inflige 2 de daño y hace retroceder 6 casillas a la unidad que golpee en la dirección hacia la que mire.,Tire un éclair qui inflige 2&nbsp;points de dégâts et repousse l'unité touchée de 6&nbsp;cases en face d'elle.,"Verschieße einen Blitz, der 2&nbsp;Schaden verursacht und die Einheit, die er trifft, 6&nbsp;Felder in die Richtung stößt, in die sie blickt.",Spari un fulmine che infligge 2 di danno e respinge l'unità colpita di 6 caselle nella direzione in cui è rivolta.,Dispare um raio que causa 2 de dano e empurra unidades que atinge 6 espaços na direção em que foi lançado.,"发射一枚闪电，造成2点伤害
+并将击中单位向其面朝方向击退6格。
 "
 ABILITY_SMOLDER_NAME,Smolder,,Llameante,Combustion,Schwelen,Braci,Fumegante,闷烧
 ABILITY_SMOLDER_DESC,Inflict Burn 1 and +1 [img:spd] to a unit in range.,,Inflige +1 de quemadura y +1 [img:spd] a una unidad dentro de su radio de alcance.,Inflige Brûlure&nbsp;+1&nbsp;et [img:spd]&nbsp;+1&nbsp;à une unité à portée.,Verursache Verbrennung&nbsp;1 und +1&nbsp;[img:spd] bei einer Einheit in Reichweite.,Infliggi Bruciatura 1 e +1 alla [img:spd] a un'unità nel raggio d'azione.,Aplique queimadura 1 e +1 de [img:spd] em uma unidade dentro do alcance.,"对范围内的单位施加1层灼烧和+1 [img:spd]。
@@ -2391,7 +2391,9 @@ Haverá consequências permanentes ao lançar este encantamento...
 [s:.7](Um lançamento por batalha.)[/s]","对除自身和另外一个指定单位外
 的所有单位施加2层冻结。
 对敌人造成5点伤害，
-治疗每个盟友5点生命值。"
+治疗每个盟友5点生命值。
+释放该法术会有永久性的后果…
+[s:.7](每场战斗可施放一次。)[/s]"
 ABILITY_FORBIDDENFROST2_DESC,"Apply Freeze 2 to each unit except for yourself and 1 other chosen unit.
 Deal 10 Damage to enemies and fully heal each ally.
 There will be permanent consequences for casting this spell…
@@ -2438,9 +2440,9 @@ ABILITY_TEACH2_DESC,Reduce the cost of a unit's spells by 1 until the end of the
 持续到其回合结束。
 此技能可以以自己为目标。"
 ABILITY_HOMINGBLASTS_NAME,Homing Blasts,,Explosiones dirigidas,Missiles à tête chercheuse,Suchgeschosse,Esplosioni a Ricerca,Explosões Perseguidoras,追踪爆裂
-ABILITY_HOMINGBLASTS_DESC,Shoot 3 Magic Missiles at random enemies.,,Dispara 3 misiles mágicos a enemigos al azar.,Tire 3&nbsp;missiles magiques sur des ennemis aléatoires.,Schieße 3&nbsp;magische Geschosse auf zufällige Gegner.,Spara 3 Missili Magici contro nemici casuali.,Dispare 3 mísseis mágicos em inimigos aleatórios.,"对随机敌人射出 3 枚魔法导弹。
+ABILITY_HOMINGBLASTS_DESC,Shoot 3 Magic Missiles at random enemies.,,Dispara 3 misiles mágicos a enemigos al azar.,Tire 3&nbsp;missiles magiques sur des ennemis aléatoires.,Schieße 3&nbsp;magische Geschosse auf zufällige Gegner.,Spara 3 Missili Magici contro nemici casuali.,Dispare 3 mísseis mágicos em inimigos aleatórios.,"对随机敌人射出 3 枚魔法飞弹。
 "
-ABILITY_HOMINGBLASTS2_DESC,Shoot 4 Magic Missiles at random enemies.,,Dispara 4 misiles mágicos a enemigos al azar.,Tire 4&nbsp;missiles magiques sur des ennemis aléatoires.,Schieße 4&nbsp;magische Geschosse auf zufällige Gegner.,Spara 4 Missili Magici contro nemici casuali.,Dispare 4 mísseis mágicos em inimigos aleatórios.,"对随机敌人射出 4 枚魔法导弹。
+ABILITY_HOMINGBLASTS2_DESC,Shoot 4 Magic Missiles at random enemies.,,Dispara 4 misiles mágicos a enemigos al azar.,Tire 4&nbsp;missiles magiques sur des ennemis aléatoires.,Schieße 4&nbsp;magische Geschosse auf zufällige Gegner.,Spara 4 Missili Magici contro nemici casuali.,Dispare 4 mísseis mágicos em inimigos aleatórios.,"对随机敌人射出 4 枚魔法飞弹。
 "
 ABILITY_REPLICATE_NAME,Replicate,,Duplicado,Duplication,Replikation,Replica,Replicação,复制
 ABILITY_REPLICATE_DESC,The next spell you cast is cast twice.,,Se duplica el siguiente hechizo que lance esta unidad.,Votre prochain sort se lancera deux fois.,"Der nächste Zauber, den du wirkst, wird zweimal ausgelöst.",Il prossimo incantesimo che lanci verrà lanciato due volte.,O próximo encantamento que você lançar é lançado duas vezes.,"你接下来施放的法术会被施放两次。
@@ -3151,7 +3153,7 @@ ABILITY_VURP2_DESC,"Vomit up the last consumable you ate this battle and equip i
 [s:.7](Um lançamento por turno.)[/s]","呕吐出本场战斗中你最后吃下的消耗品并装备它。
 
 [s:.7](每回合限用一次。)[/s]"
-ABILITY_SLICEANDDICE_NAME,Slice and Dice,,Corte en canal,Julienne,Zurechtstutzen,Affettamento,Fatiar e Picar,切割与斩击
+ABILITY_SLICEANDDICE_NAME,Slice and Dice,,Corte en canal,Julienne,Zurechtstutzen,Affettamento,Fatiar e Picar,切片与剁碎
 ABILITY_SLICEANDDICE_DESC,"Dash forward one tile and do a spin attack with Cleave, then repeat twice more.",,"Se lanza hacia delante una casilla y realiza un ataque giratorio con Incisión. Luego, lo repite 2 veces más.",Vous foncez en avant sur 1&nbsp;case et effectuez une attaque tournoyante avec Fendoir. Vous recommencez 2&nbsp;fois.,Stürme ein Feld vorwärts und führe einen Wirbelangriff mit Schlachten aus. Wiederhole diese Aktion noch zweimal.,"Scatti in avanti di una casella ed esegui un attacco rotante con Fendente, poi il tutto si ripete altre due volte.","Dê um impulso de 1 espaço para a frente e realize um ataque giratório com cisão, e então repita isto mais duas vezes.","向前冲刺一格并用横扫进行旋转攻击，
 
 然后重复两次。"
@@ -3395,7 +3397,7 @@ ABILITÀ PASSIVA: Ottieni Calpestamento.","Cause 5 de dano contra si. Reinicie s
 PASSIVO: Você possui atropelamento.","对自己造成5点伤害。
 刷新你的移动行动。
 被动：你拥有践踏效果。"
-ABILITY_BOWL_NAME,Bowl,,Bolo,Bowling,Bowling,Bowling,Boliche,碗
+ABILITY_BOWL_NAME,Bowl,,Bolo,Bowling,Bowling,Bowling,Boliche,投保龄球
 ABILITY_BOWL_DESC,"Roll the bowling ball cat. If it hits something, deal 10 damage in a large cone with knockback.",,"Lanza un gato bola de bolos. Si golpea algo, inflige 10 de daño en un área cónica con retroceso.","Vous lancez le chat boule de bowling. S'il percute quelque chose, Dégâts&nbsp;+10&nbsp;en large cône et Recul.","Wirf die Bowlingkugel-Katze. Wenn sie etwas trifft, verursacht sie 10&nbsp;Schaden in einem großen kegelförmigen Bereich und stößt Einheiten zurück.","Lanci il gatto-palla da bowling. Se colpisce qualcosa, infliggi 10 di danno in un ampio cono con contraccolpo.","Lance o gato bola de boliche. Se ele acertar algo, cause 10 de dano em um cone grande com empurrão.","滚动保龄球猫。如果碰到东西，
 在大锥形范围内造成10点伤害并击退。
 "
@@ -3493,7 +3495,7 @@ ABILITY_MINDBLAST2_DESC,Push away each unit near a target area. This inflicts Ma
 
 这会造成疯狂并有小几率造成眩晕。
 "
-ABILITY_PSYCHICCHOKE_NAME,Psychic Choke,,Asfixia psíquica,Strangulation psychique,Psychowürger,Soffocamento Psichico,Enforcamento Psíquico,精神窒息
+ABILITY_PSYCHICCHOKE_NAME,Psychic Choke,,Asfixia psíquica,Strangulation psychique,Psychowürger,Soffocamento Psichico,Enforcamento Psíquico,原力锁喉
 ABILITY_PSYCHICCHOKE_DESC,Deal damage to and inflict Bruise on a unit within your line of sight.,,Le inflige daño y moratón a una unidad en su campo visual.,Vous infligez des dégâts et Contusion à une unité dans votre ligne de mire.,Verursache Schaden und Beulen bei einer Einheit in deiner Sichtlinie.,Infliggi danno e Livido a un'unità nel tuo campo visivo.,Cause dano e aplique contusão em uma unidade dentro do seu campo de visão.,"对视线范围内的单位造成伤害并造成挫伤。
 "
 ABILITY_PSYCHICCHOKE2_DESC,Deal damage to and inflict Bruise on a unit within your line of sight. This damage counts as physical damage and scales with [img:str].,,Le inflige daño y moratón a una unidad en su campo visual. Este daño cuenta como daño físico y aumenta con su [img:str].,Vous infligez des dégâts et Contusion à une unité dans votre ligne de mire. Les dégâts sont de type physique et augmentent avec [img:str].,Verursache Schaden und Beulen bei einer Einheit in deiner Sichtlinie. Der Schaden ist physisch und abhängig von deiner [img:str].,Infliggi danno e Livido a un'unità nel tuo campo visivo. Questo danno è di tipo fisico ed è proporzionale alla [img:str].,Cause dano e aplique contusão em uma unidade dentro do seu campo de visão. Esse dano conta como dano físico e aumenta de acordo com sua [img:str].,"对视线范围内的单位造成伤害并造成挫伤。
@@ -3964,8 +3966,8 @@ ABILITY_INTIMIDATE_NAME,Intimidate,,Coacción,Intimidation,Einschüchtern,Intimi
 ABILITY_INTIMIDATE_DESC,Inflict Fear on an adjacent unit.,,Inflige miedo a una unidad adyacente.,Peur sur une unité adjacente.,Verursache bei einer benachbarten Einheit Angst.,Infliggi Paura a un'unità adiacente.,Aplique medo em uma unidade adjacente.,对相邻单位附加恐惧效果。
 ABILITY_INTIMIDATE2_DESC,Inflict Fear on a unit up to five tiles away.,,Inflige miedo a una unidad hasta a 5 casillas de distancia.,Peur sur une unité dans un rayon de 5&nbsp;cases.,Verursache bei einer Einheit in bis zu fünf Feldern Entfernung Angst.,Infliggi Paura a un'unità distante fino a cinque caselle.,Aplique medo em uma unidade dentro de 5 espaços de distância.,"对最多5格之外的单位附加恐惧效果。
 "
-ABILITY_TOSS_NAME,Toss,,Empuje,Lancer,Wurf,Lancio,Lançamento,投掷
-ABILITY_TOSS_DESC,Throw an adjacent unit to an open tile.,,Lanza una unidad adyacente a una casilla vacía.,Vous jetez une unité adjacente sur une case libre.,Wirf eine benachbarte Einheit auf ein freies Feld.,Lanci un'unità adiacente su una casella libera.,Jogue uma unidade adjacente em um espaço aberto.,将相邻单位掷向一个空置格子。
+ABILITY_TOSS_NAME,Toss,,Empuje,Lancer,Wurf,Lancio,Lançamento,摔投
+ABILITY_TOSS_DESC,Throw an adjacent unit to an open tile.,,Lanza una unidad adyacente a una casilla vacía.,Vous jetez une unité adjacente sur une case libre.,Wirf eine benachbarte Einheit auf ein freies Feld.,Lanci un'unità adiacente su una casella libera.,Jogue uma unidade adjacente em um espaço aberto.,将相邻单位掷向一个空格子。
 ABILITY_TOSS2_DESC,"Throw an adjacent unit to a tile, dealing bonus damage if it collides with something.",,Lanza una unidad adyacente hacia una casilla y le inflige daño extra si choca contra algo.,Vous jetez une unité adjacente sur une case qui reçoit des dégâts supplémentaires si elle percute quelque chose.,"Wirf eine benachbarte Einheit auf ein Feld und füge ihr zusätzlichen Schaden zu, wenn sie mit etwas zusammenstößt.","Lanci un'unità adiacente su una casella, infliggendo danno bonus se entra in collisione con qualcosa.","Jogue uma unidade adjacente em um espaço aberto, causando dano bônus se ela colidir com algo.","将相邻单位掷向一个格子，
 如果碰撞到物体则造成额外伤害。
 "
@@ -3974,7 +3976,7 @@ ABILITY_WRESTLETOSS_DESC,"Throw an adjacent unit to an open tile.
 [s:.7](Se puede lanzar una vez por turno).[/s]",Vous jetez une unité adjacente sur une case libre. [s:.7](Une fois par tour.)[/s],"Wirf eine benachbarte Einheit auf ein freies Feld.
 [s:.7](Einmal pro Zug verwendbar.)[/s]","Lanci un'unità adiacente su una casella libera.
 [s:.7](Lanciabile una volta per turno.)[/s]","Jogue uma unidade adjacente em um espaço aberto.
-[s:.7](Um lançamento por turno.)[/s]","将相邻单位掷向一个空置格子。
+[s:.7](Um lançamento por turno.)[/s]","将相邻单位掷向一个空格子。
 [s:.7](每回合可施放一次。)[/s]"
 ABILITY_WRESTLETOSS2_DESC,"Throw an adjacent unit to a tile, dealing bonus damage if it collides with something.
 [s:.7](Castable once per turn.)[/s]",,"Lanza una unidad adyacente hacia una casilla y le inflige daño extra si choca contra algo.
@@ -4097,7 +4099,7 @@ ABILITY_ROCKSONG2_DESC,"Levitate all rocks. They will automatically fling toward
 它们会自动向移动结束时与其在一条线上的
 敌人投掷。
 [s:.7](该法术消耗更少。)[/s]"
-ABILITY_ROCKCRUSHER_NAME,Rock Crusher,,Aplastarrocas,Briseur de pierre,Steinzermalmer,Frantumarocce,Esmagamento de Pedras,石破碎机
+ABILITY_ROCKCRUSHER_NAME,Rock Crusher,,Aplastarrocas,Briseur de pierre,Steinzermalmer,Frantumarocce,Esmagamento de Pedras,碎石机
 ABILITY_ROCKCRUSHER_DESC,"Jump on top of a rock, exploding it. Deal damage and knock back all adjacent units.",,Salta sobre una roca y la hace explotar. Inflige daño y retroceso a todas las unidades adyacentes.,Vous faites exploser une pierre en lui sautant dessus. Vous infligez des dégâts à toutes les unités adjacentes et les repoussez.,Spring auf einen Stein und lasse ihn explodieren. Du fügst allen benachbarten Einheiten Schaden zu und stößt sie zurück.,"Salti su una roccia, facendola esplodere. Infliggi danno e respingi tutte le unità adiacenti.",Pule sobre uma pedra e a exploda. Cause dano e empurre todas as unidades adjacentes.,"跳上岩石并使其爆炸。
 对所有相邻单位造成伤害并击退。
 "
@@ -5794,7 +5796,7 @@ ABILITY_INFEST_NAME,Infest,,Infestación,Infection,Infizieren,Infestazione,Infes
 ABILITY_INFEST_DESC,Toss a spider egg that deals low damage and inflicts Infested.,,Lanza un huevo de araña que inflige poco daño e infestación.,Vous lancez un œuf d'araignée qui inflige de faibles dégâts et Infestation.,"Wirf ein Spinnenei, das niedrigen Schaden verursacht und Infiziert verursacht.",Lanci un uovo di ragno che infligge poco danno e causa Infestato.,Jogue um ovo de aranha que causa dano baixo e aplica infestação.,"投掷一枚蜘蛛卵，
 造成低伤害并施加感染。"
 ABILITY_INFEST2_DESC,Toss a spider egg that deals low damage and inflicts Infested 2.,,Lanza un huevo de araña que inflige poco daño y 2 de infestación.,Vous lancez un œuf d'araignée qui inflige de faibles dégâts et Infestation&nbsp;+2.,"Wirf ein Spinnenei, das niedrigen Schaden verursacht und Infiziert&nbsp;2 verursacht.",Lanci un uovo di ragno che infligge poco danno e causa Infestato 2.,Jogue um ovo de aranha que causa dano baixo e aplica infestação 2.,"投掷一枚蜘蛛卵，
-造成低伤害并施加1层感染。"
+造成低伤害并施加2层感染。"
 ABILITY_COLLECTPELT_NAME,Collect Pelt,,Recogida de pellejo,Collection de fourrures,Pelz sammeln,Raccolta della Pelle,Coletar Pele,收集兽皮
 ABILITY_COLLECTPELT_DESC,Destroy a body. Equip a piece of Cat Hide armor to an empty armor slot.,,Destruye un cadáver. Se equipa una pieza de armadura de pellejo de gato en un espacio de armadura vacío.,Vous détruisez un cadavre. Vous équipez une armure Cat Hide dans un emplacement d'armure vide.,Zerstöre eine Leiche. Rüste eine Rüstung aus Katzenleder in einem freien Rüstungsplatz aus.,Distruggi un corpo. Equipaggi un pezzo di armatura di Pelle di Gatto in uno slot armatura vuoto.,Destrua um corpo. Equipe uma peça de armadura de couro de gato em um espaço de armadura vazio.,"销毁一具尸体。将一件猫皮
 护甲装备到一个空护甲位上。"
@@ -6011,16 +6013,16 @@ ABILITY_DRAINATTACK_NAME,Drain Attack,,Ataque drenante,Attaque drainante,Saugang
 ABILITY_DRAINATTACK_DESC,A melee attack with Lifesteal.,,Un ataque cuerpo a cuerpo con robavida.,Attaque au corps-à-corps dotée de Vol de vie.,"Ein Nahkampfangriff, der Leben absaugt.",Un attacco corpo a corpo con RubaVita.,Um ataque corpo-a-corpo com roubo de vida.,一次带有吸血效果的近战攻击。
 ABILITY_HOOK_NAME,Hook,,Pesca,Crochet,Haken,Gancio,Gancho,钩子
 ABILITY_HOOK_DESC,Pull an enemy to you.,,Atrae a una unidad hacia esta.,Vous attirez un ennemi vers vous.,Zieh einen Gegner an dich heran.,Attiri un nemico verso di te.,Puxe um inimigo na sua direção.,将敌人拉向你。
-ABILITY_BASICMAGICMISSILE_NAME,Magic Missile,,Misil mágico,Missile magique,Magisches Geschoss,Missile Magico,Míssil Mágico,魔法导弹
+ABILITY_BASICMAGICMISSILE_NAME,Magic Missile,,Misil mágico,Missile magique,Magisches Geschoss,Missile Magico,Míssil Mágico,魔法飞弹
 ABILITY_BASICMAGICMISSILE_DESC,"Shoot an infinite-range projectile that can't miss.
 [s:.7](This attack's damage scales with your [img:int])[/s]",,"Dispara un proyectil de alcance infinito que no puede fallar.
 [s:.7](El daño de este ataque aumenta con el [img:int]).[/s]",Vous tirez un projectile sans limite de portée qui ne peut pas échouer. [s:.7](Les dégâts augmentent en fonction de votre [img:int]).[/s],"Feuere ein Geschoss mit unendlicher Reichweite, das nicht verfehlen kann.
 [s:.7](Der Schaden dieses Angriffs ist abhängig von deiner [img:int].)[/s]","Spari un proiettile a raggio d'azione infinito che non può mancare il bersaglio.
 [s:.7](Il danno di questo attacco aumenta con la tua [img:int])[/s]","Dispare um projétil de alcance infinito que não pode errar.
-[s:.7](O dano deste ataque aumenta de acordo com a sua [img:int])[/s]","射出一枚无法被击中的无限射程投射物。
+[s:.7](O dano deste ataque aumenta de acordo com a sua [img:int])[/s]","射出一枚不会失误的无限射程投射物。
 
 [s:.7](该攻击的伤害随你的[img:int]而变化)[/s]"
-ABILITY_SUPLEX_NAME,Suplex,,Súplex,Suplex,Suplex,Suplex,Suplex,摔投
+ABILITY_SUPLEX_NAME,Suplex,,Súplex,Suplex,Suplex,Suplex,Suplex,背摔
 ABILITY_SUPLEX_DESC,Grab a unit in front of you and slam it into the tile behind you.,,Agarra a una unidad delante de esta y la espachurra contra la casilla detrás de ella.,Vous attrapez une unité devant vous et l'écrasez sur la case derrière vous.,Pack eine Einheit vor dir und wirf sie auf das Feld hinter dir.,Afferri un'unità di fronte a te e la sbatti contro la casella dietro di te.,Agarre uma unidade à sua frente e jogue-a no espaço atrás de você.,"抓住你面前的单位，
 将其猛击到你身后的格子中。"
 ABILITY_SUPLEX2_DESC,"Grab a unit in front of you and slam it into the tile behind you, inflicting Bruise 3 and Immobile.",,Agarra a una unidad delante de esta y la espachurra contra la casilla detrás de ella. Le inflige 3 de moratón e inmovilización.,"Vous attrapez une unité devant vous et l'écrasez sur la case derrière vous, ce qui lui inflige Contusion&nbsp;+3&nbsp;et Immobilisation.",Pack eine Einheit vor dir und wirf sie auf das Feld hinter dir. Du verursachst Beulen&nbsp;3 und Unbeweglich.,"Afferri un'unità di fronte a te e la sbatti contro la casella dietro di te, infliggendole Livido 3 e Immobilizzazione.","Agarre uma unidade à sua frente e jogue-a no espaço atrás de você, aplicando contusão 3 e imobilização.","抓住你面前的单位，
@@ -6185,10 +6187,10 @@ ABILITY_DRILLDOWN2_DESC,"Dig to a tile in a straight line. If you dig into a uni
 对范围内造成5点伤害（包括你自己）。
 "
 ABILITY_ARMORUP_NAME,Armor Up,,Armadura,En armure,Rüstung herstellen,Potenziamento Armatura,Armadura Aumentada,护甲提升
-ABILITY_ARMORUP_DESC,Craft a Tinkerer armor piece into one of your empty armor slots.,,Crea una pieza de armadura de manitas en uno de los espacios de armadura vacíos.,Vous fabriquez un élément d'armure de Scientifique dans l'un de vos emplacements d'armure vides.,Stelle ein Bastlerrüstungsteil her und rüste es in einem leeren Rüstungsplatz aus.,Crei un pezzo di armatura da Inventore in uno degli slot vuoti della tua armatura.,Fabrique uma peça de armadura de artífice em um de seus espaços vazios de armadura.,"在你的空护甲槽中制作一个工匠护甲部件。
+ABILITY_ARMORUP_DESC,Craft a Tinkerer armor piece into one of your empty armor slots.,,Crea una pieza de armadura de manitas en uno de los espacios de armadura vacíos.,Vous fabriquez un élément d'armure de Scientifique dans l'un de vos emplacements d'armure vides.,Stelle ein Bastlerrüstungsteil her und rüste es in einem leeren Rüstungsplatz aus.,Crei un pezzo di armatura da Inventore in uno degli slot vuoti della tua armatura.,Fabrique uma peça de armadura de artífice em um de seus espaços vazios de armadura.,"在你的空装备槽中制作一个工匠装备部件。
 "
-ABILITY_ARMORUP2_DESC,Craft a Tinkerer armor piece into one of your or an adjacent unit's empty armor slots.,,Crea una pieza de armadura de manitas en uno de los espacios de armadura vacíos de esta unidad o de una adyacente.,Vous fabriquez un élément d'armure de Scientifique dans l'un de vos emplacements d'armure vides ou celui d'une unité adjacente.,Stelle ein Bastlerrüstungsteil her. Du oder eine benachbarte Einheit rüstet es in einem leeren Rüstungsplatz aus.,Crei un pezzo di armatura da Inventore in uno degli slot vuoti della tua armatura o di quella di un'unità adiacente.,"Fabrique uma peça de armadura de artífice em um de seus espaços vazios de armadura, ou nos de uma unidade adjacente.","在你或邻近单位的空护甲槽中制
-作一个工匠护甲部件。"
+ABILITY_ARMORUP2_DESC,Craft a Tinkerer armor piece into one of your or an adjacent unit's empty armor slots.,,Crea una pieza de armadura de manitas en uno de los espacios de armadura vacíos de esta unidad o de una adyacente.,Vous fabriquez un élément d'armure de Scientifique dans l'un de vos emplacements d'armure vides ou celui d'une unité adjacente.,Stelle ein Bastlerrüstungsteil her. Du oder eine benachbarte Einheit rüstet es in einem leeren Rüstungsplatz aus.,Crei un pezzo di armatura da Inventore in uno degli slot vuoti della tua armatura o di quella di un'unità adiacente.,"Fabrique uma peça de armadura de artífice em um de seus espaços vazios de armadura, ou nos de uma unidade adjacente.","在你或邻近单位的空装备槽中制
+作一个工匠装备部件。"
 ABILITY_FRESHOFFTHEFORGE_NAME,Fresh off the Forge,,Recién forjado,Chaud devant,Frisch vom Amboss,Appena Forgiato,Direto do Forno,锻炉出炉
 ABILITY_FRESHOFFTHEFORGE_DESC,Gain +7 [img:shield] and Burn 3.,,Obtiene +7 [img:shield] y 3 de quemadura.,[img:shield]&nbsp;+7&nbsp;et Brûlure&nbsp;+3.,Erhalte +7&nbsp;[img:shield] und Verbrennung&nbsp;3.,Ottieni +7 allo [img:shield] e Bruciatura 3.,Obtenha +7 de [img:shield] e queimadura 3.,获得+7 [img:shield] 和3层灼烧。
 ABILITY_FRESHOFFTHEFORGE2_DESC,Give +7 [img:shield] and Burn 3 to yourself or an adjacent unit. ,,Obtiene +7 [img:shield] y 3 de quemadura para sí misma o para una unidad adyacente. ,[img:shield]&nbsp;+7&nbsp;et Brûlure&nbsp;+3&nbsp;pour vous ou une unité adjacente.,Verleihe dir oder einer benachbarten Einheit +7&nbsp;[img:shield] und Verbrennung&nbsp;3. ,Ottieni +7 allo [img:shield] e Bruciatura 3 per te o un'unità adiacente.,Conceda +7 de [img:shield] e queimadura 3 a si ou a uma unidade adjacente.,"给予你自己或邻近单位+7 [img:shield] 和3层灼烧。
@@ -6366,7 +6368,7 @@ ABILITY_MECHSUITBARRAGE_DESC,Fire the machine guns!,,¡Dispara las ametralladora
 ABILITY_MECHDASH_NAME,Thrusters,,Propulsores,Propulseurs,Schub aktivieren,Propulsori,Propulsores,推进器
 ABILITY_MECHDASH_DESC,Dash forward and light fires in your path.,,Se lanza hacia delante y prende fuego a todo en su camino.,Vous foncez en avant et créez des incendies sur votre passage.,Stürme vorwärts und hinterlasse Feuer auf deinem Weg.,Scatti in avanti e generi incendi sul tuo cammino.,Dê um impulso para frente e acenda fogos pelo caminho.,"向前冲刺，
 点燃你路径上的火焰。"
-ABILITY_MECHSUIT_NAME,Mech Suit,,Traje robótico,Costume mécha,Mechanzug,Tuta per Mech,Traje Mecha,机甲套装
+ABILITY_MECHSUIT_NAME,Mech Suit,,Traje robótico,Costume mécha,Mechanzug,Tuta per Mech,Traje Mecha,机械战甲
 ABILITY_MECHSUIT_DESC,"Summon a mech suit that can be piloted.
 [s:.7](Castable once per battle.)[/s]",,"Invoca un traje robótico que se puede pilotar.
 [s:.7](Se puede lanzar una vez por combate).[/s]",Vous invoquez un costume mécha qui peut être piloté. [s:.7](Une fois par combat.)[/s],"Beschwöre einen Mechanzug.
@@ -7225,13 +7227,13 @@ ABILITY_STARTER_PLACEHOLDER_DRUID_DESC,Becomes a random Druid starter ability wh
 获得一个随机的德鲁伊初始技能。
 "
 ABILITY_STARTER_PLACEHOLDER_PSYCHIC_DESC,Becomes a random Psychic starter ability when you lock in your team's collars.,,"Cuando asignas los collares del grupo, se convierte en una habilidad inicial de ocultista al azar.",Devient une compétence de départ de Médium lorsque vous verrouillez les colliers de votre équipe.,"Wird zu einer zufälligen Medium-Anfangsfähigkeit, wenn du die Klassen deiner Gruppe zugewiesen hast.",Diventa un'abilità iniziale casuale dello Psionico quando confermi i collari della squadra.,Torna-se uma habilidade inicial de psíquico quando você trava as coleiras de sua equipe.,"当你锁定队伍的项圈时，
-获得一个随机的通灵师初始技能。
+获得一个随机的灵能者初始技能。
 "
 ABILITY_STARTER_PLACEHOLDER_TINKERER_DESC,Becomes a random Tinkerer starter ability when you lock in your team's collars.,,"Cuando asignas los collares del grupo, se convierte en una habilidad inicial de manitas al azar.",Devient une compétence de départ de Scientifique lorsque vous verrouillez les colliers de votre équipe.,"Wird zu einer zufälligen Bastler-Anfangsfähigkeit, wenn du die Klassen deiner Gruppe zugewiesen hast.",Diventa un'abilità iniziale casuale dell'Inventore quando confermi i collari della squadra.,Torna-se uma habilidade inicial de artífice quando você trava as coleiras de sua equipe.,"当你锁定队伍的项圈时，
-获得一个随机的发明家初始技能。
+获得一个随机的工匠初始技能。
 "
 ABILITY_STARTER_PLACEHOLDER_COLORLESS_DESC,Becomes a random Collarless starter ability when you lock in your team's collars.,,"Cuando asignas los collares del grupo, se convierte en una habilidad inicial sin collar al azar.",Devient une compétence de départ de Sans collier lorsque vous verrouillez les colliers de votre équipe.,"Wird zu einer zufälligen klassenlosen Anfangsfähigkeit, wenn du die Klassen deiner Gruppe zugewiesen hast.",Diventa un'abilità iniziale casuale del Senza Collare quando confermi i collari della squadra.,Torna-se uma habilidade inicial sem coleira quando você trava as coleiras de sua equipe.,"当你锁定队伍的项圈时，
-获得一个随机的无项圈初始技能。
+获得一个随机的无派系初始技能。
 "
 ABILITY_STARTER_PLACEHOLDER_JESTER_DESC,Becomes a random ability from any class when you lock in your team's collars.,,"Cuando asignas los collares del grupo, se convierte en una habilidad de cualquier clase al azar.",Devient une compétence de départ d'une classe au hasard lorsque vous verrouillez les colliers de votre équipe.,"Wird zu einer zufälligen Anfangsfähigkeit einer beliebigen Klasse, wenn du die Klassen deiner Gruppe zugewiesen hast.",Diventa un'abilità iniziale casuale di qualsiasi classe quando confermi i collari della squadra.,Torna-se uma habilidade aleatória de qualquer classe quando você trava as coleiras de sua equipe.,"当你锁定队伍的项圈时，
 获得任意职业的一个随机技能。"

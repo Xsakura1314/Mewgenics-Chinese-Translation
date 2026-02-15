@@ -294,8 +294,8 @@ HOUSE_DATE_DEC,Dec,,Dic,Déc,Dez,Dic,Dez,12月
 HOUSE_FURNITURE_STAT_COMFORT,{amount} [img:comfort] Comfort,,{amount} [img:comfort] Comodidad,[img:comfort] Bien-être&nbsp;: {amount},{amount} [img:comfort] Komfort,{amount} [img:comfort] Comfort,{amount} de [img:comfort] conforto,{amount} [img:comfort] 舒适度
 HOUSE_FURNITURE_STAT_STIMULATION,{amount} [img:stimulation] Stimulation,,{amount} [img:stimulation] Estimulación,[img:stimulation] Stimulation&nbsp;: {amount},{amount} [img:stimulation] Stimulation,{amount} [img:stimulation] Stimolazione,{amount} de [img:stimulation] estimulação,{amount} [img:stimulation] 刺激度
 HOUSE_FURNITURE_STAT_APPEAL,{amount} [img:appeal] Appeal,,{amount} [img:appeal] Atractivo,[img:appeal] Attractivité&nbsp;: {amount},{amount} [img:appeal] Reiz,{amount} [img:appeal] Attrattiva,{amount} de [img:appeal] apelo,{amount} [img:appeal] 吸引力
-HOUSE_FURNITURE_STAT_HEALTH,{amount} [img:health] Health,,{amount} [img:health] Salud,[img:health] Santé&nbsp;: {amount},{amount} [img:health] Gesundheit,{amount} [img:health] Salute,{amount} de [img:health] saúde,{amount} [img:health] 健康
-HOUSE_FURNITURE_STAT_MUTATION,{amount} [img:evolution] Mutation,,{amount} [img:evolution] Mutación,[img:evolution] Mutation&nbsp;: {amount},{amount} [img:evolution] Mutation,{amount} [img:evolution] Mutazione,{amount} de [img:evolution] mutação,{amount} [img:evolution] 变异
+HOUSE_FURNITURE_STAT_HEALTH,{amount} [img:health] Health,,{amount} [img:health] Salud,[img:health] Santé&nbsp;: {amount},{amount} [img:health] Gesundheit,{amount} [img:health] Salute,{amount} de [img:health] saúde,{amount} [img:health] 健康度
+HOUSE_FURNITURE_STAT_MUTATION,{amount} [img:evolution] Mutation,,{amount} [img:evolution] Mutación,[img:evolution] Mutation&nbsp;: {amount},{amount} [img:evolution] Mutation,{amount} [img:evolution] Mutazione,{amount} de [img:evolution] mutação,{amount} [img:evolution] 变异度
 HOUSE_STORAGE_NAME,Storage,,Almacén,Rangement,Lager,Deposito,Armazenamento,仓库
 HOUSE_QUEST_STORAGE_NAME,Quest Items,,Objetos de misión,Objets de quête,Questgegenstände,Oggetti missione,Itens de Missões,任务物品
 HOUSE_TRASH_NAME,Trash,,Basura,Poubelle,Müll,Cestino,Lixeira,垃圾
@@ -526,7 +526,7 @@ COMBAT_POPUP_HOLSTER,Holster,,Pistolera,Attaque conservée,Holster,Fondina,Coldr
 COMBAT_POPUP_CATCH,Catch!,,¡Captura!,Attrapé&nbsp;!,Gefangen!,Prendi!,Pegue!,接住！
 COMBAT_POPUP_ENERGIZED,Energized!,,¡Energía!,Énergique&nbsp;!,Energiegeladen!,Energizzato!,Energia!,充满能量！
 COMBAT_POPUP_BADPOOP,Bad Poop!,,¡Caca mala!,Vilain caca&nbsp;!,Schlechter Stuhlgang!,Cacca Brutta!,Cocô ruim!,糟糕的便便！
-COMBAT_POPUP_DEJAVU,Deja Vu,,Déjà vu,Déjà-vu,Déjà-vu,Déjà vu,Déjà vu,似曾相识
+COMBAT_POPUP_DEJAVU,Deja Vu,,Déjà vu,Déjà-vu,Déjà-vu,Déjà vu,Déjà vu,既视感
 COMBAT_POPUP_BUGBITE,Bug Bite!,,¡Picadura!,Morsure d'insecte&nbsp;!,Käferbiss!,Puntura d'insetto!,Picada de inseto!,虫咬！
 COMBAT_POPUP_RECHARGED,Recharged!,,¡Recarga!,Rechargé&nbsp;!,Aufgeladen!,Ricaricato!,Recarregamento!,充能完成！
 COMBAT_POPUP_BRAINSTORM,Brainstorm!,,Lluvia de ideas,Introspection&nbsp;!,Geistesblitz!,Brainstorming!,Troca de ideias!,头脑风暴！
@@ -884,15 +884,15 @@ CAT_CLASS_BUTCHER_DESC,Meat Meat Meat Meat Meat! Butchers are great at cleaving 
 CAT_CLASS_DRUID_NAME,Druid,,Druida,Druide,Druide,Druido,Druida,德鲁伊
 CAT_CLASS_DRUID_DESC,One with nature! Druids are great at summoning animal friends and come with a special Crow counterpart!,,"¡Fúndete con la naturaleza! La especialidad de los druidas es invocar a amigos animales, y tienen un homólogo córvido especial.",Il ne fait qu'un avec la nature&nbsp;! Les druides peuvent appeler leurs amis animaux à la rescousse et disposent d'un corbeau domestiqué.,Er ist eins mit der Natur! Druiden beschwören Tierfreunde und haben einen schlauen Krähenbegleiter!,Un tutt'uno con la natura! I druidi sono bravissimi a evocare amici animali e hanno una controparte speciale: il corvo!,Em união com a natureza! Druidas são ótimos em invocar amigos animais e possuem um companheiro corvo especial!,"与自然合一！
 德鲁伊擅长召唤动物朋友，并且拥有特殊的乌鸦伙伴！"
-CAT_CLASS_TINKERER_NAME,Tinkerer,,Manitas,Scientifique,Bastler,Inventore,Artífice,修补匠
+CAT_CLASS_TINKERER_NAME,Tinkerer,,Manitas,Scientifique,Bastler,Inventore,Artífice,工匠
 CAT_CLASS_TINKERER_DESC,A crafty inventor! Tinkerers are great at crafting temporary weapons and using all sorts of crazy gadgets!,,¡A inventar se ha dicho! Los manitas son capaces de fabricar armas temporales y usar todo tipo de artilugios de locos.,Un inventeur de génie&nbsp;! Les scientifiques conçoivent des armes éphémères et manient pléthore de gadgets farfelus.,Ein erfinderisches Genie! Bastler können behelfsmäßige Waffen herstellen und alle möglichen verrückte Geräte verwenden!,Ha un'incredibile ingegnosità! Gli inventori sono bravissimi a creare armi temporanee e a usare ogni sorta di gadget strampalato!,Invenções engenhosas! Artífices são ótimos em criar armas temporárias e utilizar todo tipo de engenhoca maluca!,"巧妙的发明家！
-修补匠擅长制作临时武器和使用各种疯狂的小玩意儿！"
+工匠擅长制作临时武器和使用各种疯狂的小玩意儿！"
 CAT_CLASS_NECROMANCER_NAME,Necromancer,,Nigromante,Occultiste,Totenbeschwörer,Necromante,Necromante,死灵法师
 CAT_CLASS_NECROMANCER_DESC,Rise from the dead! Necromancers are great at playing with corpses and leeching life from enemies!,,¡Que se alcen los muertos! Los nigromantes se dedican a jugar con cadáveres y absorber la energía vital de sus enemigos.,Le maître de la nécromancie&nbsp;! Les occultistes manipulent les cadavres et drainent la vitalité de leurs ennemis.,"Erhebe dich von den Toten! Totenbeschwörer lieben es, mit Leichen zu spielen und ihren Gegnern Leben abzusaugen!",Risorgi dai morti! I necromanti sono bravissimi a giocare con i cadaveri e a succhiare la vita dai nemici!,Erga-se dos mortos! Necromantes são ótimos em brincar com cadáveres e drenar vida dos inimigos!,"从死者中崛起！
 死灵法师擅长操控尸体并从敌人身上吸取生命！"
-CAT_CLASS_PSYCHIC_NAME,Psychic,,Ocultista,Médium,Medium,Psionico,Psíquico,通灵者
+CAT_CLASS_PSYCHIC_NAME,Psychic,,Ocultista,Médium,Medium,Psionico,Psíquico,灵能者
 CAT_CLASS_PSYCHIC_DESC,Clear your mind! Psychics are great at manipulating things from afar and moving objects with their minds! Psychics also have +5 starting mana.,,"¡Despeja tu mente! Los ocultistas son especialistas en manipular cosas desde lejos y mover objetos con la mente. Además, tienen +5 de maná inicial.",Faites le vide dans votre esprit&nbsp;! Les médiums sont capables de déplacer les objets par la pensée et gagnent +5 mana de départ.,Reinige dein Innerstes! Das Medium kann Dinge aus der Ferne manipulieren und allein mit den Gedanken Objekte bewegen! Außerdem verfügt das Medium über +5&nbsp;Anfangsmana.,Libera la tua mente! Gli psionici sono bravissimi a manipolare le cose da lontano e a spostare gli oggetti con la mente! Inoltre hanno anche +5 di mana iniziale.,Esvazie sua mente! Psíquicos são ótimos em manipular as coisas de longe e mover objetos com suas mentes! Psíquicos também possuem +5 de mana inicial.,"清净你的心灵！
-通灵者擅长远程操控物体并用意念移动物品！通灵者初始法力值+5。"
+灵能者擅长远程操控物体并用意念移动物品！灵能者初始法力值+5。"
 CAT_CLASS_JESTER_NAME,Jester,,Bufón,Joker,Narr,Giullare,Curinga,小丑
 CAT_CLASS_JESTER_DESC,You can be anything! Jesters have no limits!,,¡Puedes ser cualquier cosa! Los bufones no tienen límites.,Devenez qui vous voulez&nbsp;! Les jokers n'ont aucune limite&nbsp;!,Du kannst alles sein! Narren kennen keine Grenzen!,Puoi essere ciò che vuoi! I giullari non hanno limiti!,Seja qualquer coisa! Curingas não têm limites!,"你可以成为任何人！
 小丑没有限制！"
