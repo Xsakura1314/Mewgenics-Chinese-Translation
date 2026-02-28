@@ -4104,7 +4104,7 @@ NPC_POPUP_HOUSE_STRAYS_2,Aw! You have a new kitten! {He} will need to grow up be
 NPC_POPUP_HOUSE_STRAYS_2_M,,,,,,Ooh! Hai un nuovo micetto! Dovrà crescere prima di poter partire per un'avventura.,,,,,
 NPC_POPUP_HOUSE_STRAYS_2_F,,,,,,Ooh! Hai una nuova micetta! Dovrà crescere prima di poter partire per un'avventura.,,,,,
 NPC_POPUP_HOUSE_STRAYS_2_N,,,,,,Ooh! La tua famiglia ha un nuovo membro! Dovrà crescere prima di poter partire per un'avventura.,,,,,
-NPC_POPUP_HOUSE_STRAYS_3,"Don't worry, there is something in the water here that makes them grow up in like 1 day.",Tink,No te preocupes; en el agua hay algo que hace que crezcan en un día.,"T'en fais pas. Ici, y a comme un truc dans la flotte qui les fait grandir en un seul jour.","Keine Sorge, irgendwas muss hier im Wasser sein. Kätzchen benötigen nämlich nur einen Tag, um aufzuwachsen.","Non preoccuparti, qui nell'acqua c'è qualcosa che li fa crescere tipo in un giorno.","Não se preocupe, tem alguma coisa na água daqui que faz eles crescerem em tipo 1 dia.",,,,"别担心，这里的里的水有点特别，
+NPC_POPUP_HOUSE_STRAYS_3,"Don't worry, there is something in the water here that makes them grow up in like 1 day.",Tink,No te preocupes; en el agua hay algo que hace que crezcan en un día.,"T'en fais pas. Ici, y a comme un truc dans la flotte qui les fait grandir en un seul jour.","Keine Sorge, irgendwas muss hier im Wasser sein. Kätzchen benötigen nämlich nur einen Tag, um aufzuwachsen.","Non preoccuparti, qui nell'acqua c'è qualcosa che li fa crescere tipo in un giorno.","Não se preocupe, tem alguma coisa na água daqui que faz eles crescerem em tipo 1 dia.",,,,"别担心，这里的水有点特别，
 能让它们在 1 天左右就长大。"
 NPC_POPUP_HOUSE_STRAYS_4,"[m:pointleft]Also look!
 A stray cat has come to your house looking for love!",Tink,"[m:pointleft]¡Y mira!
@@ -4113,7 +4113,7 @@ Un chat errant est arrivé chez toi à la recherche d'un foyer aimant&nbsp;!","[
 Ein Streuner ist auf der Suche nach der wahren Liebe vorbeigekommen!","[m:pointleft]Un'altra cosa!
 Un gatto randagio è venuto a casa tua in cerca di amore!","[m:pointleft]Veja só!
 
-Um gato de rua apareceu na sua casa em busca de amor!",,,,[m:pointleft]快看！一只流浪猫来到你家寻找爱了！
+Um gato de rua apareceu na sua casa em busca de amor!",,,,[m:pointleft]快看！一只流浪猫来到你家寻求关爱了！
 NPC_POPUP_HOUSE_STRAYS_5,"[m:questioning]You should totes take {him} inside, right?",Tink,"[m:questioning]Tienes que adoptarlo sí o sí, ¿verdad?","[m:questioning]Tu devrais vraiment le recueillir, tu ne crois pas&nbsp;?","[m:questioning]Du willst {him} doch safe aufnehmen, oder?","[m:questioning]Dovresti portarlo dentro, giusto?","[m:questioning]Você deveria deixar {he} entrar, não?",,,,[m:questioning]你应该把它带进屋里，对吧？
 NPC_POPUP_HOUSE_STRAYS_5_M,,,,,,,,,,,
 NPC_POPUP_HOUSE_STRAYS_5_F,,,,,,,,,,,
